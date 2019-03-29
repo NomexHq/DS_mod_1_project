@@ -1,0 +1,839 @@
+,Title,Studio_Abbreviation,Worldwide_Gross,Domestic_Gross,Domestic_Share,Overseas_Gross,Overseas_Share,Year_x,Genre,IMDB_Score,Metascore,Votes,Subgenre1,Subgrene2,Subgrene3
+0,Avengers: Infinity War,BV,2048.4,678.8,33.1,1369.5,66.9,2018,"Action, Adventure, Sci-Fi",8.5,68,609291,Action, Adventure, Sci-Fi
+1,Black Panther,BV,1346.9,700.1,52,646.9,48,2018,"Action, Adventure, Sci-Fi",7.3,88,484618,Action, Adventure, Sci-Fi
+2,Jurassic World: Fallen Kingdom,Uni.,1309.5,417.7,31.9,891.8,68.1,2018,"Action, Adventure, Sci-Fi",6.2,51,206471,Action, Adventure, Sci-Fi
+3,Incredibles 2,BV,1242.8,608.6,49,634.2,51,2018,"Animation, Action, Adventure",7.7,80,189268,Animation, Action, Adventure
+4,Aquaman,WB,1146.9,334.8,29.2,812.1,70.8,2018,"Action, Adventure, Fantasy",7.2,55,210821,Action, Adventure, Fantasy
+5,Bohemian Rhapsody,Fox,889.3,216,24.3,673.4,75.7,2018,"Biography, Drama, Music",8.1,49,310691,Biography, Drama, Music
+6,Mission: Impossible - Fallout,Par.,791.1,220.2,27.8,571,72.2,2018,"Action, Adventure, Thriller",7.8,86,221922,Action, Adventure, Thriller
+7,Deadpool 2,Fox,778.9,318.5,40.9,460.5,59.1,2018,"Action, Adventure, Comedy",7.8,66,365627,Action, Adventure, Comedy
+8,Fantastic Beasts: The Crimes of Grindelwald,WB,653.7,159.6,24.4,494.1,75.6,2018,"Adventure, Family, Fantasy",6.7,52,144196,Adventure, Family, Fantasy
+9,Ant-Man & the Wasp,BV,622.7,216.6,34.8,406,65.2,2018,"Action, Adventure, Comedy",7.1,70,212329,Action, Adventure, Comedy
+10,Ready Player One,WB,582.9,137.7,23.6,445.2,76.4,2018,"Action, Adventure, Sci-Fi",7.5,64,289104,Action, Adventure, Sci-Fi
+11,The Meg,WB,530.2,145.4,27.4,384.8,72.6,2018,"Action, Horror, Sci-Fi",5.7,46,102230,Action, Horror, Sci-Fi
+12,Hotel Transylvania 3: Summer Vacation,Sony,528.6,167.5,31.7,361.1,68.3,2018,"Animation, Adventure, Comedy",6.3,54,39051,Animation, Adventure, Comedy
+13,Ralph Breaks the Internet,BV,527.5,201,38.1,326.5,61.9,2018,"Animation, Adventure, Comedy",7.2,71,71138,Animation, Adventure, Comedy
+14,Bumblebee,Par.,462.5,127.2,27.5,335.3,72.5,2018,"Action, Adventure, Sci-Fi",7,66,65760,Action, Adventure, Sci-Fi
+15,Mamma Mia! Here We Go Again,Uni.,394.7,120.6,30.6,274.1,69.4,2018,"Comedy, Musical, Romance",6.8,60,54903,Comedy, Musical, Romance
+16,Solo: A Star Wars Story,BV,392.9,213.8,54.4,179.2,45.6,2018,"Action, Adventure, Fantasy",7,62,213274,Action, Adventure, Fantasy
+17,Fifty Shades Freed,Uni.,371.9,100.4,27,271.5,73,2018,"Drama, Romance, Thriller",4.5,31,42008,Drama, Romance, Thriller
+18,The Nun,WB (NL),365.6,117.5,32.1,248.1,67.9,2018,"Horror, Mystery, Thriller",5.4,46,81934,Horror, Mystery, Thriller
+19,Peter Rabbit,Sony,351.3,115.3,32.8,236,67.2,2018,"Animation, Adventure, Comedy",6.6,51,26580,Animation, Adventure, Comedy
+20,Mary Poppins Returns,BV,348.8,171.8,49.3,176.9,50.7,2018,"Comedy, Family, Fantasy",7,66,41061,Comedy, Family, Fantasy
+21,A Quiet Place,Par.,340.9,188,55.1,152.9,44.9,2018,"Drama, Horror, Mystery",7.6,82,286722,Drama, Horror, Mystery
+22,Skyscraper,Uni.,304.9,68.4,22.4,236.4,77.6,2018,"Action, Adventure, Thriller",5.8,51,74418,Action, Adventure, Thriller
+23,Ocean's 8,WB,297.7,140.2,47.1,157.5,52.9,2018,"Action, Comedy, Crime",6.2,61,134403,Action, Comedy, Crime
+24,Green Book,Uni.,294.6,84,28.5,210.6,71.5,2018,"Biography, Comedy, Drama",8.3,69,158162,Biography, Comedy, Drama
+25,Maze Runner: The Death Cure,Fox,288.3,58,20.1,230.2,79.9,2018,"Action, Sci-Fi, Thriller",6.2,50,87523,Action, Sci-Fi, Thriller
+26,Tomb Raider,WB,274.7,58.3,21.2,216.4,78.8,2018,"Action, Adventure, Fantasy",6.3,48,157058,Action, Adventure, Fantasy
+27,Crazy Rich Asians,WB,238.5,174.5,73.2,64,26.8,2018,"Comedy, Romance",7,74,84875,Comedy, Romance,
+28,Paddington 2,WB,227.3,40.9,18,186.4,82,2018,"Adventure, Comedy, Family",7.9,88,44429,Adventure, Comedy, Family
+29,Smallfoot,WB,214.1,83.2,38.9,130.9,61.1,2018,"Animation, Adventure, Comedy",6.7,60,20840,Animation, Adventure, Comedy
+30,Creed II,MGM,213.9,115.7,54.1,98.2,45.9,2018,"Drama, Sport",7.3,66,60280,Drama, Sport,
+31,The Equalizer 2,Sony,190.4,102.1,53.6,88.3,46.4,2018,"Action, Crime, Thriller",6.7,50,88387,Action, Crime, Thriller
+32,The Nutcracker & the Four Realms,BV,173.9,54.9,31.5,119.1,68.5,2018,"Adventure, Family, Fantasy",5.5,39,16289,Adventure, Family, Fantasy
+33,Insidious: The Last Key,Uni.,167.9,67.7,40.4,100.1,59.6,2018,"Horror, Mystery, Thriller",5.7,49,40194,Horror, Mystery, Thriller
+34,The Mule,WB,166.7,103.8,62.3,62.9,37.7,2018,"Crime, Drama, Thriller",7.1,58,32316,Crime, Drama, Thriller
+35,Red Sparrow,Fox,151.6,46.9,30.9,104.7,69.1,2018,"Action, Drama, Thriller",6.6,53,131527,Action, Drama, Thriller
+36,The First Purge,Uni.,137,69.5,50.7,67.5,49.3,2018,"Action, Horror, Sci-Fi",5.1,54,38356,Action, Horror, Sci-Fi
+37,A Wrinkle in Time,BV,132.7,100.5,75.7,32.2,24.3,2018,"Adventure, Family, Fantasy",4.2,53,33723,Adventure, Family, Fantasy
+38,The Commuter,LGF,119.9,36.3,30.3,83.6,69.7,2018,"Action, Mystery, Thriller",6.3,56,79581,Action, Mystery, Thriller
+39,Instant Family,Par.,118.8,67.4,56.7,51.5,43.3,2018,"Comedy, Drama",7.4,57,33771,Comedy, Drama,
+40,Game Night,WB (NL),117.7,69.2,58.8,48.5,41.2,2018,"Action, Comedy, Crime",7,66,154898,Action, Comedy, Crime
+41,First Man,Uni.,105.4,44.9,42.6,60.5,57.4,2018,"Biography, Drama, History",7.4,84,108845,Biography, Drama, History
+42,Alpha,Studio 8,98.2,35.9,36.5,62.3,63.5,2018,"Adventure, Drama, Family",6.7,63,37792,Adventure, Drama, Family
+43,A Simple Favor,LGF,97.5,53.5,54.9,43.9,45.1,2018,"Comedy, Crime, Drama",6.9,67,75435,Comedy, Crime, Drama
+44,Truth or Dare,Uni.,95.3,41.4,43.4,53.9,56.6,2018,"Horror, Thriller",5.1,35,31284,Horror, Thriller,
+45,I Feel Pretty,STX,94.5,48.8,51.6,45.7,48.4,2018,"Comedy, Romance",5.4,48,37156,Comedy, Romance,
+46,The Favourite,FoxS,94.1,34.2,36.3,59.9,63.7,2018,"Biography, Comedy, Drama",7.7,90,98273,Biography, Comedy, Drama
+47,Blockers,Uni.,94,60.3,64.1,33.7,35.9,2018,Comedy,6.2,69,53918,Comedy,,
+48,Goosebumps 2: Haunted Halloween,Sony,93.3,46.7,50,46.6,50,2018,"Adventure, Comedy, Family",5.6,53,9770,Adventure, Comedy, Family
+49,BlacKkKlansman,Focus,91.7,49.3,53.7,42.4,46.3,2018,"Biography, Crime, Drama",7.5,83,130117,Biography, Crime, Drama
+50,Sherlock Gnomes,Par.,90.3,43.2,47.9,47.1,52.1,2018,"Animation, Adventure, Comedy",5.1,36,7543,Animation, Adventure, Comedy
+51,Den of Thieves,STX,80.5,44.9,55.8,35.6,44.2,2018,"Action, Crime, Drama",7,49,66431,Action, Crime, Drama
+52,Hereditary,A24,79.3,44.1,55.5,35.3,44.5,2018,"Drama, Horror, Mystery",7.3,87,139664,Drama, Horror, Mystery
+53,Tag,WB (NL),78.1,54.7,70.1,23.4,29.9,2018,Comedy,6.6,56,76421,Comedy,,
+54,Widows,Fox,76,42.4,55.8,33.6,44.2,2018,"Crime, Drama, Thriller",7,84,53471,Crime, Drama, Thriller
+55,Sicario: Day of the Soldado,Sony,75.8,50.1,66,25.8,34,2018,"Action, Crime, Drama",7.1,61,87827,Action, Crime, Drama
+56,Searching,SGem,75.5,26,34.5,49.4,65.5,2018,"Drama, Mystery, Thriller",7.7,71,87023,Drama, Mystery, Thriller
+57,The Spy Who Dumped Me,LGF,75.3,33.6,44.6,41.8,55.4,2018,"Action, Adventure, Comedy",6,52,43325,Action, Adventure, Comedy
+58,Vice,Annapurna,72.6,47.8,65.9,24.8,34.1,2018,"Biography, Comedy, Drama",7.2,61,53311,Biography, Comedy, Drama
+59,Second Act,STX,72.3,39.3,54.3,33,45.7,2018,"Comedy, Drama, Romance",5.8,46,9100,Comedy, Drama, Romance
+60,Book Club,Par.,68.6,68.6,100,,0,2018,"Comedy, Drama, Romance",6.1,53,17004,Comedy, Drama, Romance
+61,12 Strong,WB,67.5,45.8,67.9,21.6,32.1,2018,"Action, Drama, History",6.6,54,47691,Action, Drama, History
+62,"Love, Simon",Fox,66.3,40.8,61.6,25.5,38.4,2018,"Comedy, Drama, Romance",7.6,72,77698,Comedy, Drama, Romance
+63,Mile 22,STX,66.3,36.1,54.5,30.2,45.5,2018,"Action, Adventure, Thriller",6.1,38,43984,Action, Adventure, Thriller
+64,Life of the Party,WB (NL),65.9,53.1,80.6,12.8,19.4,2018,Comedy,5.5,46,24021,Comedy,,
+65,Adrift,STX,59.9,31.4,52.5,28.5,47.5,2018,"Action, Adventure, Biography",6.6,56,31437,Action, Adventure, Biography
+66,The 15:17 to Paris,WB,57.1,36.3,63.6,20.8,36.4,2018,"Biography, Drama",5.2,45,20794,Biography, Drama,
+67,Peppermint,STX,52.7,35.4,67.2,17.3,32.8,2018,"Action, Crime, Drama",6.5,29,32121,Action, Crime, Drama
+68,Slender Man,SGem,51.7,30.6,59.1,21.2,40.9,2018,"Horror, Mystery, Thriller",3.2,30,17453,Horror, Mystery, Thriller
+69,Uncle Drew,LG/S,46.7,42.5,91,4.2,9,2018,"Comedy, Sport",5.7,57,8930,Comedy, Sport,
+70,Holmes & Watson,Sony,40.5,30.6,75.6,9.9,24.4,2018,"Adventure, Comedy, Crime",3.6,24,11389,Adventure, Comedy, Crime
+71,The Hate U Give,Fox,34.9,29.7,85.1,5.2,14.9,2018,"Crime, Drama",7.2,81,14937,Crime, Drama,
+72,On the Basis of Sex,Focus,34,24.6,72.4,9.4,27.6,2018,"Biography, Drama",6.7,59,6629,Biography, Drama,
+73,Nobody's Fool,Par.,33.5,31.7,94.6,1.8,5.4,2018,"Comedy, Drama, Romance",4.5,39,3037,Comedy, Drama, Romance
+74,White Boy Rick,Studio 8,25.9,24,92.8,1.9,7.2,2018,"Crime, Drama",6.5,59,13400,Crime, Drama,
+75,Winchester,LGF,25.1,25.1,100,,0,2018,"Biography, Drama, Fantasy",5.4,28,23141,Biography, Drama, Fantasy
+76,Star Wars: The Last Jedi,BV,1332.5,620.2,46.5,712.4,53.5,2017,"Action, Adventure, Fantasy",7.2,85,450825,Action, Adventure, Fantasy
+77,The Fate of the Furious,Uni.,1236,226,18.3,1010,81.7,2017,"Action, Crime, Thriller",6.7,56,176105,Action, Crime, Thriller
+78,Despicable Me 3,Uni.,1034.8,264.6,25.6,770.2,74.4,2017,"Animation, Action, Adventure",6.3,49,89080,Animation, Action, Adventure
+79,Jumanji: Welcome to the Jungle,Sony,962.1,404.5,42,557.6,58,2017,"Action, Adventure, Comedy",7,58,234791,Action, Adventure, Comedy
+80,Spider-Man: Homecoming,Sony,880.2,334.2,38,546,62,2017,"Action, Adventure, Sci-Fi",7.5,73,401293,Action, Adventure, Sci-Fi
+81,Guardians of the Galaxy Vol. 2,BV,863.8,389.8,45.1,473.9,54.9,2017,"Action, Adventure, Comedy",7.7,67,456692,Action, Adventure, Comedy
+82,Thor: Ragnarok,BV,854,315.1,36.9,538.9,63.1,2017,"Action, Adventure, Comedy",7.9,74,447007,Action, Adventure, Comedy
+83,Wonder Woman,WB,821.8,412.6,50.2,409.3,49.8,2017,"Action, Adventure, Fantasy",7.5,76,473473,Action, Adventure, Fantasy
+84,Coco,BV,807.1,209.7,26,597.4,74,2017,"Animation, Adventure, Comedy",8.4,81,263717,Animation, Adventure, Comedy
+85,Pirates of the Caribbean: Dead Men Tell No Tales,BV,794.9,172.6,21.7,622.3,78.3,2017,"Action, Adventure, Fantasy",6.6,39,222702,Action, Adventure, Fantasy
+86,It,WB (NL),700.4,327.5,46.8,372.9,53.2,2017,"Horror, Thriller",7.4,69,343982,Horror, Thriller,
+87,Justice League,WB,657.9,229,34.8,428.9,65.2,2017,"Action, Adventure, Fantasy",6.5,45,318866,Action, Adventure, Fantasy
+88,Transformers: The Last Knight,Par.,605.4,130.2,21.5,475.3,78.5,2017,"Action, Adventure, Sci-Fi",5.2,27,115687,Action, Adventure, Sci-Fi
+89,Kong: Skull Isl&,WB,566.7,168.1,29.7,398.6,70.3,2017,"Action, Adventure, Fantasy",6.6,62,230714,Action, Adventure, Fantasy
+90,The Boss Baby,Fox,528,175,33.1,353,66.9,2017,"Animation, Adventure, Comedy",6.3,50,91175,Animation, Adventure, Comedy
+91,Dunkirk,WB,525.2,188,35.8,337.2,64.2,2017,"Action, Drama, History",7.9,94,454963,Action, Drama, History
+92,War for the Planet of the Apes,Fox,490.7,146.9,29.9,343.8,70.1,2017,"Action, Adventure, Drama",7.5,82,197198,Action, Adventure, Drama
+93,The Greatest Showman,Fox,435,174.3,40.1,260.7,59.9,2017,"Biography, Drama, Musical",7.6,48,193412,Biography, Drama, Musical
+94,Kingsman: The Golden Circle,Fox,410.9,100.2,24.4,310.7,75.6,2017,"Action, Adventure, Comedy",6.8,44,223761,Action, Adventure, Comedy
+95,Cars 3,BV,383.9,152.9,39.8,231,60.2,2017,"Animation, Adventure, Comedy",6.8,59,57128,Animation, Adventure, Comedy
+96,Fifty Shades Darker,Uni.,381.5,114.6,30,267,70,2017,"Drama, Romance",4.6,33,80020,Drama, Romance,
+97,The Great Wall,Uni.,334.9,45.5,13.6,289.4,86.4,2017,"Action, Adventure, Fantasy",6,42,109381,Action, Adventure, Fantasy
+98,Resident Evil: The Final Chapter,SGem,312.2,26.8,8.6,285.4,91.4,2017,"Action, Horror, Sci-Fi",5.6,49,73617,Action, Horror, Sci-Fi
+99,Annabelle: Creation,WB (NL),306.5,102.1,33.3,204.4,66.7,2017,"Horror, Mystery, Thriller",6.5,62,86913,Horror, Mystery, Thriller
+100,Wonder,LGF,305.9,132.4,43.3,173.5,56.7,2017,"Drama, Family",8,66,107957,Drama, Family,
+101,Ferdin&,Fox,296.1,84.4,28.5,211.7,71.5,2017,"Animation, Adventure, Comedy",6.7,58,38883,Animation, Adventure, Comedy
+102,Split,Uni.,278.5,138.3,49.7,140.2,50.3,2017,"Horror, Thriller",7.3,62,341318,Horror, Thriller,
+103,Blade Runner 2049,WB,259.2,92.1,35.5,167.2,64.5,2017,"Drama, Mystery, Sci-Fi",8,81,367599,Drama, Mystery, Sci-Fi
+104,Get Out,Uni.,255.4,176,68.9,79.4,31.1,2017,"Horror, Mystery, Thriller",7.7,84,380378,Horror, Mystery, Thriller
+105,Alien: Covenant,Fox,240.9,74.3,30.8,166.6,69.2,2017,"Horror, Sci-Fi, Thriller",6.4,65,222184,Horror, Sci-Fi, Thriller
+106,Baby Driver,TriS,226.9,107.8,47.5,119.1,52.5,2017,"Action, Crime, Drama",7.6,86,351747,Action, Crime, Drama
+107,Valerian & the City of a Thous& Planets,STX,225.9,41.2,18.2,184.7,81.8,2017,"Action, Adventure, Fantasy",6.5,51,136629,Action, Adventure, Fantasy
+108,Geostorm,WB,221.6,33.7,15.2,187.9,84.8,2017,"Action, Sci-Fi, Thriller",5.3,21,76187,Action, Sci-Fi, Thriller
+109,The Emoji Movie,Sony,217.8,86.1,39.5,131.7,60.5,2017,"Animation, Adventure, Comedy",3.2,12,46004,Animation, Adventure, Comedy
+110,A Dog's Purpose,Uni.,205,64.5,31.5,140.5,68.5,2017,"Adventure, Comedy, Drama",7.1,43,51472,Adventure, Comedy, Drama
+111,Smurfs: The Lost Village,Sony,197.2,45,22.8,152.2,77.2,2017,"Animation, Adventure, Comedy",6,40,15136,Animation, Adventure, Comedy
+112,The Shape of Water,FoxS,195.2,63.9,32.7,131.4,67.3,2017,"Adventure, Drama, Fantasy",7.3,87,297549,Adventure, Drama, Fantasy
+113,Pitch Perfect 3,Uni.,185.4,104.9,56.6,80.5,43.4,2017,"Comedy, Music",5.8,40,43397,Comedy, Music,
+114,The Post,Fox,179.8,81.9,45.6,97.9,54.4,2017,"Biography, Drama, History",7.2,83,104750,Biography, Drama, History
+115,Baywatch,Par.,177.9,58.1,32.6,119.8,67.4,2017,"Action, Comedy, Crime",5.6,37,131103,Action, Comedy, Crime
+116,The Hitman's Bodyguard,LG/S,176.6,75.5,42.7,101.1,57.3,2017,"Action, Comedy, Thriller",6.9,47,157792,Action, Comedy, Thriller
+117,"Three Billboards Outside Ebbing, Missouri",FoxS,159.2,54.5,34.2,104.7,65.8,2017,"Crime, Drama",8.2,88,330832,Crime, Drama,
+118,Darkest Hour,Focus,150.9,56.5,37.4,94.4,62.6,2017,"Biography, Drama, History",7.4,75,132626,Biography, Drama, History
+119,King Arthur: Legend of the Sword,WB,148.7,39.2,26.3,109.5,73.7,2017,"Action, Adventure, Drama",6.8,41,165058,Action, Adventure, Drama
+120,The Foreigner,STX,145.4,34.4,23.7,111,76.3,2017,"Action, Thriller",7,55,79352,Action, Thriller,
+121,Girls Trip,Uni.,140.6,115.2,81.9,25.4,18.1,2017,"Comedy, Drama",6.2,71,28506,Comedy, Drama,
+122,American Made,Uni.,134.9,51.3,38.1,83.5,61.9,2017,"Action, Biography, Comedy",7.2,65,126679,Action, Biography, Comedy
+123,A Bad Moms Christmas,STX,130.6,72.1,55.2,58.4,44.8,2017,"Adventure, Comedy",5.5,42,32072,Adventure, Comedy,
+124,Captain Underpants: The First Epic Movie,Fox,125.5,73.9,58.9,51.6,41.1,2017,"Animation, Action, Comedy",6.2,69,21443,Animation, Action, Comedy
+125,Happy Death Day,Uni.,125.5,55.7,44.4,69.8,55.6,2017,"Horror, Mystery, Thriller",6.5,58,81523,Horror, Mystery, Thriller
+126,The Dark Tower,Sony,113.2,50.7,44.8,62.5,55.2,2017,"Action, Adventure, Fantasy",5.7,34,104100,Action, Adventure, Fantasy
+127,Leap!,Wein.,103.2,21.9,21.2,81.4,78.8,2017,"Animation, Adventure, Comedy",6.8,48,16176,Animation, Adventure, Comedy
+128,Jigsaw,LGF,103,38.1,37,64.9,63,2017,"Crime, Horror, Mystery",5.8,39,55633,Crime, Horror, Mystery
+129,Atomic Blonde,Focus,100,51.7,51.7,48.3,48.3,2017,"Action, Mystery, Thriller",6.7,63,146218,Action, Mystery, Thriller
+130,The Shack,LG/S,96.9,57.4,59.2,39.6,40.8,2017,"Drama, Fantasy",6.3,32,25322,Drama, Fantasy,
+131,Rings,Par.,83.1,27.8,33.5,55.3,66.5,2017,"Drama, Horror, Mystery",4.5,25,33531,Drama, Horror, Mystery
+132,Underworld: Blood Wars,SGem,81.1,30.4,37.4,50.7,62.6,2017,"Action, Adventure, Fantasy",5.8,23,61915,Action, Adventure, Fantasy
+133,Lady Bird,A24,78.9,49,62,30,38,2017,"Comedy, Drama",7.4,94,171533,Comedy, Drama,
+134,American Assassin,LGF,67.2,36.2,53.9,31,46.1,2017,"Action, Thriller",6.2,45,56541,Action, Thriller,
+135,The Nut Job 2: Nutty by Nature,ORF,65.1,28.4,43.5,36.8,56.5,2017,"Animation, Action, Adventure",5.4,36,4673,Animation, Action, Adventure
+136,Monster Trucks,Par.,64.5,33.4,51.7,31.1,48.3,2017,"Action, Adventure, Comedy",5.7,41,13282,Action, Adventure, Comedy
+137,The Mountain Between Us,Fox,62.8,30.3,48.3,32.5,51.7,2017,"Action, Adventure, Drama",6.4,48,55561,Action, Adventure, Drama
+138,The Star,Sony,62.8,40.9,65,22,35,2017,"Animation, Adventure, Comedy",6.1,42,5028,Animation, Adventure, Comedy
+139,"Everything, Everything",WB,61.6,34.1,55.4,27.5,44.6,2017,"Drama, Romance",6.4,52,25769,Drama, Romance,
+140,Snatched,Fox,60.8,45.9,75.4,15,24.6,2017,"Action, Adventure, Comedy",4.5,45,29356,Action, Adventure, Comedy
+141,Molly's Game,STX,59.3,28.8,48.5,30.5,51.5,2017,"Biography, Crime, Drama",7.5,71,100494,Biography, Crime, Drama
+142,All the Money in the World,TriS,57,25.1,44.1,31.9,55.9,2017,"Biography, Crime, Drama",6.8,72,58422,Biography, Crime, Drama
+143,The Big Sick,LGF,56.4,42.9,76,13.5,24,2017,"Comedy, Drama, Romance",7.6,86,101935,Comedy, Drama, Romance
+144,Downsizing,Par.,55,24.4,44.5,30.6,55.5,2017,"Drama, Sci-Fi",5.7,63,72777,Drama, Sci-Fi,
+145,"I, Tonya",Neon,53.9,30,55.6,23.9,44.4,2017,"Biography, Comedy, Drama",7.5,77,136232,Biography, Comedy, Drama
+146,Logan Lucky,BST,48.5,27.8,57.3,20.7,42.7,2017,"Comedy, Crime, Drama",7,78,103492,Comedy, Crime, Drama
+147,All Eyez on Me,LG/S,44.9,44.9,100,,0,2017,"Biography, Drama, Music",5.8,38,18155,Biography, Drama, Music
+148,47 Meters Down,ENTMP,44.3,44.3,100,,0,2017,"Adventure, Drama, Horror",5.6,52,37900,Adventure, Drama, Horror
+149,Gifted,FoxS,43,24.8,57.6,18.2,42.4,2017,Drama,7.6,60,80108,Drama,,
+150,Fist Fight,WB (NL),41.1,32.2,78.3,8.9,21.7,2017,Comedy,5.6,37,34304,Comedy,,
+151,The House,WB (NL),34.2,25.6,74.8,8.6,25.2,2017,"Comedy, Crime",5.6,30,31967,Comedy, Crime,
+152,Wind River,Wein.,33.8,33.8,100,,0,2017,"Crime, Drama, Mystery",7.7,73,164033,Crime, Drama, Mystery
+153,Hostiles,ENTMP,29.8,29.8,100,,0,2017,"Adventure, Drama, Western",7.2,65,50533,Adventure, Drama, Western
+154,Home Again,ORF,27,27,100,,0,2017,"Comedy, Drama, Romance",5.8,41,21970,Comedy, Drama, Romance
+155,Captain America: Civil War,BV,1153.3,408.1,35.4,745.2,64.6,2016,"Action, Adventure, Sci-Fi",7.8,75,559168,Action, Adventure, Sci-Fi
+156,Rogue One: A Star Wars Story,BV,1056.1,532.2,50.4,523.9,49.6,2016,"Action, Adventure, Sci-Fi",7.8,65,468870,Action, Adventure, Sci-Fi
+157,Finding Dory,BV,1028.6,486.3,47.3,542.3,52.7,2016,"Animation, Adventure, Comedy",7.3,77,209779,Animation, Adventure, Comedy
+158,Zootopia,BV,1023.8,341.3,33.3,682.5,66.7,2016,"Animation, Adventure, Comedy",8,78,375833,Animation, Adventure, Comedy
+159,The Secret Life of Pets,Uni.,875.5,368.4,42.1,507.1,57.9,2016,"Animation, Adventure, Comedy",6.5,61,158534,Animation, Adventure, Comedy
+160,Batman v Superman: Dawn of Justice,WB,873.6,330.4,37.8,543.3,62.2,2016,"Action, Adventure, Fantasy",6.5,44,568256,Action, Adventure, Fantasy
+161,Deadpool,Fox,783.1,363.1,46.4,420,53.6,2016,"Action, Adventure, Comedy",8,65,805202,Action, Adventure, Comedy
+162,Suicide Squad,WB,746.8,325.1,43.5,421.7,56.5,2016,"Action, Adventure, Fantasy",6.1,40,521890,Action, Adventure, Fantasy
+163,Doctor Strange,BV,677.7,232.6,34.3,445.1,65.7,2016,"Action, Adventure, Fantasy",7.5,72,491290,Action, Adventure, Fantasy
+164,Moana,BV,643.3,248.8,38.7,394.6,61.3,2016,"Animation, Adventure, Comedy",7.6,81,219030,Animation, Adventure, Comedy
+165,Sing,Uni.,634.2,270.4,42.6,363.8,57.4,2016,"Animation, Comedy, Family",7.1,59,113182,Animation, Comedy, Family
+166,X-Men: Apocalypse,Fox,543.9,155.4,28.6,388.5,71.4,2016,"Action, Adventure, Sci-Fi",7,52,346962,Action, Adventure, Sci-Fi
+167,Kung Fu P&a 3,Fox,521.2,143.5,27.5,377.6,72.5,2016,"Animation, Action, Adventure",7.1,66,113531,Animation, Action, Adventure
+168,La La L&,LG/S,446.1,151.1,33.9,295,66.1,2016,"Comedy, Drama, Music",8,93,426200,Comedy, Drama, Music
+169,Warcraft,Uni.,433.7,47.4,10.9,386.3,89.1,2016,"Action, Adventure, Fantasy",6.9,32,223006,Action, Adventure, Fantasy
+170,Jason Bourne,Uni.,415.5,162.4,39.1,253.1,60.9,2016,"Action, Thriller",6.6,58,188204,Action, Thriller,
+171,Ice Age: Collision Course,Fox,408.6,64.1,15.7,344.5,84.3,2016,"Animation, Adventure, Comedy",5.7,34,47617,Animation, Adventure, Comedy
+172,Independence Day: Resurgence,Fox,389.7,103.1,26.5,286.5,73.5,2016,"Action, Adventure, Sci-Fi",5.2,32,153287,Action, Adventure, Sci-Fi
+173,The Legend of Tarzan,WB,356.7,126.6,35.5,230.1,64.5,2016,"Action, Adventure, Drama",6.3,44,148126,Action, Adventure, Drama
+174,Trolls,Fox,346.9,153.7,44.3,193.2,55.7,2016,"Animation, Adventure, Comedy",6.5,56,62336,Animation, Adventure, Comedy
+175,Star Trek Beyond,Par.,343.5,158.8,46.2,184.6,53.8,2016,"Action, Adventure, Sci-Fi",7.1,68,207275,Action, Adventure, Sci-Fi
+176,Now You See Me 2,LG/S,334.9,65.1,19.4,269.8,80.6,2016,"Action, Adventure, Comedy",6.5,46,211227,Action, Adventure, Comedy
+177,The Conjuring 2,WB (NL),320.4,102.5,32,217.9,68,2016,"Drama, Horror, Mystery",7.4,65,189729,Drama, Horror, Mystery
+178,Alice Through the Looking Glass,BV,299.5,77,25.7,222.4,74.3,2016,"Adventure, Family, Fantasy",6.2,34,78090,Adventure, Family, Fantasy
+179,Miss Peregrine's Home for Peculiar Children,Fox,296.5,87.2,29.4,209.2,70.6,2016,"Adventure, Drama, Fantasy",6.7,57,138576,Adventure, Drama, Fantasy
+180,Teenage Mutant Ninja Turtles: Out of the Shadows,Par.,245.6,82.1,33.4,163.6,66.6,2016,"Action, Adventure, Comedy",6,40,76249,Action, Adventure, Comedy
+181,Assassin's Creed,Fox,240.9,54.6,22.7,186.3,77.3,2016,"Action, Adventure, Sci-Fi",5.8,36,164376,Action, Adventure, Sci-Fi
+182,Sully,WB,240.8,125.1,51.9,115.7,48.1,2016,"Biography, Drama",7.5,74,198684,Biography, Drama,
+183,Hidden Figures,Fox,236,169.6,71.9,66.3,28.1,2016,"Biography, Drama, History",7.8,74,167639,Biography, Drama, History
+184,Inferno,Sony,220,34.3,15.6,185.7,84.4,2016,"Action, Adventure, Crime",6.2,42,136438,Action, Adventure, Crime
+185,Central Intelligence,WB (NL),217,127.4,58.7,89.5,41.3,2016,"Action, Comedy, Crime",6.3,52,135499,Action, Comedy, Crime
+186,Bridget Jones's Baby,Uni.,212,24.3,11.4,187.7,88.6,2016,"Comedy, Drama, Romance",6.5,59,59259,Comedy, Drama, Romance
+187,Me Before You,WB (NL),208.3,56.2,27,152.1,73,2016,"Drama, Romance",7.4,51,168229,Drama, Romance,
+188,London Has Fallen,Focus,205.8,62.5,30.4,143.2,69.6,2016,"Action, Thriller",5.9,28,122862,Action, Thriller,
+189,Arrival,Par.,203.4,100.5,49.4,102.8,50.6,2016,"Drama, Mystery, Sci-Fi",7.9,81,503523,Drama, Mystery, Sci-Fi
+190,Bad Moms,STX,183.9,113.3,61.6,70.7,38.4,2016,Comedy,6.2,60,99350,Comedy,,
+191,Storks,WB,183.4,72.7,39.6,110.7,60.4,2016,"Animation, Adventure, Comedy",6.8,56,49668,Animation, Adventure, Comedy
+192,The BFG,BV,183.3,55.5,30.3,127.9,69.7,2016,"Adventure, Family, Fantasy",6.4,66,68353,Adventure, Family, Fantasy
+193,Hacksaw Ridge,LGF,175.3,67.2,38.3,108.1,61.7,2016,"Biography, Drama, History",8.1,71,358479,Biography, Drama, History
+194,The Huntsman: Winter's War,Uni.,165,48.4,29.3,116.6,70.7,2016,"Action, Adventure, Drama",6.1,35,86269,Action, Adventure, Drama
+195,Jack Reacher: Never Go Back,Par.,162.1,58.7,36.2,103.4,63.8,2016,"Action, Thriller",6.1,47,119412,Action, Thriller,
+196,Don't Breathe,SGem,157.1,89.2,56.8,67.9,43.2,2016,"Crime, Horror, Thriller",7.1,71,182799,Crime, Horror, Thriller
+197,The Accountant,WB,155.2,86.3,55.6,68.9,44.4,2016,"Action, Crime, Drama",7.3,51,229829,Action, Crime, Drama
+198,Gods of Egypt,LG/S,150.7,31.2,20.7,119.5,79.3,2016,"Action, Adventure, Fantasy",5.4,25,93553,Action, Adventure, Fantasy
+199,Lights Out,WB (NL),148.9,67.3,45.2,81.6,54.8,2016,"Drama, Horror, Mystery",6.3,58,98502,Drama, Horror, Mystery
+200,Sausage Party,Sony,140.7,97.7,69.4,43,30.6,2016,"Animation, Adventure, Comedy",6.2,66,156860,Animation, Adventure, Comedy
+201,Lion,Wein.,140.3,51.7,36.9,88.6,63.1,2016,"Biography, Drama",8.1,69,178018,Biography, Drama,
+202,Ride Along 2,Uni.,124.6,91.2,73.2,33.4,26.8,2016,"Action, Comedy",5.9,32,47869,Action, Comedy,
+203,Deepwater Horizon,LG/S,121.8,61.4,50.4,60.4,49.6,2016,"Action, Drama, History",7.1,68,131191,Action, Drama, History
+204,Allied,Par.,119.5,40.1,33.5,79.4,66.5,2016,"Action, Drama, Romance",7.1,60,123371,Action, Drama, Romance
+205,The Shallows,Sony,119.1,55.1,46.3,64,53.7,2016,"Drama, Horror, Thriller",6.3,59,104920,Drama, Horror, Thriller
+206,The Purge: Election Year,Uni.,118.6,79.2,66.8,39.4,33.2,2016,"Action, Horror, Sci-Fi",6,55,78891,Action, Horror, Sci-Fi
+207,Why Him?,Fox,118.1,60.3,51.1,57.8,48.9,2016,Comedy,6.2,39,88160,Comedy,,
+208,Office Christmas Party,Par.,114.5,54.8,47.8,59.7,52.2,2016,Comedy,5.8,42,58417,Comedy,,
+209,How to Be Single,WB (NL),112.3,46.8,41.7,65.5,58.3,2016,"Comedy, Drama, Romance",6.1,51,73392,Comedy, Drama, Romance
+210,10 Cloverfield Lane,Par.,110.2,72.1,65.4,38.1,34.6,2016,"Drama, Horror, Mystery",7.2,76,256869,Drama, Horror, Mystery
+211,The 5th Wave,Sony,109.9,34.9,31.8,75,68.2,2016,"Action, Adventure, Drama",5.2,33,89589,Action, Adventure, Drama
+212,Neighbors 2: Sorority Rising,Uni.,108,55.5,51.3,52.6,48.7,2016,Comedy,5.7,58,100882,Comedy,,
+213,Dirty Gr&pa,LGF,94.1,35.6,37.8,58.5,62.2,2016,Comedy,5.9,21,99584,Comedy,,
+214,Money Monster,TriS,93.3,41,44,52.3,56,2016,"Crime, Drama, Thriller",6.5,55,85314,Crime, Drama, Thriller
+215,My Big Fat Greek Wedding 2,Uni.,88.9,59.7,67.1,29.2,32.9,2016,"Comedy, Romance",6,37,25616,Comedy, Romance,
+216,Collateral Beauty,WB (NL),88.5,31,35,57.5,65,2016,"Drama, Romance",6.8,23,77273,Drama, Romance,
+217,War Dogs,WB,86.2,43,49.9,43.2,50.1,2016,"Comedy, Crime, Drama",7.1,57,151076,Comedy, Crime, Drama
+218,Nerve,LGF,85.2,38.6,45.3,46.7,54.7,2016,"Action, Adventure, Crime",6.6,58,101043,Action, Adventure, Crime
+219,Ouija: Origin of Evil,Uni.,81.7,35.1,43,46.6,57,2016,"Drama, Horror, Mystery",6.1,65,46232,Drama, Horror, Mystery
+220,Manchester by the Sea,RAtt.,79,47.7,60.4,31.3,39.6,2016,Drama,7.8,96,210744,Drama,,
+221,The Boss,Uni.,78.8,63.3,80.3,15.6,19.7,2016,Comedy,5.4,40,38532,Comedy,,
+222,Mike & Dave Need Wedding Dates,Fox,77.1,46,59.7,31.1,40.3,2016,"Adventure, Comedy, Romance",6,51,73757,Adventure, Comedy, Romance
+223,Boo! A Madea Halloween,LGF,74.8,73.2,97.8,1.6,2.2,2016,"Comedy, Drama, Horror",4.6,30,6751,Comedy, Drama, Horror
+224,Miracles from Heaven,TriS,73.9,61.7,83.5,12.2,16.5,2016,"Biography, Drama, Family",7.1,44,17152,Biography, Drama, Family
+225,Kubo & the Two Strings,Focus,69.9,48,68.7,21.9,31.3,2016,"Animation, Action, Adventure",7.8,84,103635,Animation, Action, Adventure
+226,Fences,Par.,64.4,57.7,89.5,6.7,10.5,2016,Drama,7.2,79,85026,Drama,,
+227,"Hail, Caesar!",Uni.,63.6,30.5,47.9,33.1,52.1,2016,"Comedy, Drama, Music",6.3,72,110027,Comedy, Drama, Music
+228,The Nice Guys,WB,62.8,36.3,57.8,26.5,42.2,2016,"Action, Comedy, Crime",7.4,70,235700,Action, Comedy, Crime
+229,Zool&er 2,Par.,56.7,28.8,50.9,27.9,49.1,2016,Comedy,4.7,34,59309,Comedy,,
+230,Barbershop: The Next Cut,WB (NL),55,54,98.2,1,1.8,2016,"Comedy, Drama",5.9,67,13160,Comedy, Drama,
+231,The Finest Hours,BV,52.1,27.6,52.9,24.5,47.1,2016,"Action, Drama, History",6.8,58,55353,Action, Drama, History
+232,Patriots Day,LGF,50.5,31.9,63.1,18.7,36.9,2016,"Action, Crime, Drama",7.4,69,74673,Action, Crime, Drama
+233,Florence Foster Jenkins,Par.,48.9,27.4,56,21.5,44,2016,"Biography, Comedy, Drama",6.8,71,44316,Biography, Comedy, Drama
+234,Mother's Day,ORF,48.4,32.5,67.1,15.9,32.9,2016,"Comedy, Drama, Romance",5.7,18,28137,Comedy, Drama, Romance
+235,Risen,Sony,46.1,36.9,80.1,9.2,19.9,2016,"Action, Adventure, Drama",6.3,51,22194,Action, Adventure, Drama
+236,Almost Christmas,Uni.,42.6,42.2,99,422,1,2016,"Comedy, Drama",6.1,55,5153,Comedy, Drama,
+237,Hell or High Water,LGF,37.9,27,71.3,10.9,28.7,2016,"Action, Crime, Drama",7.6,88,172398,Action, Crime, Drama
+238,The Forest,Focus,37.6,26.6,70.7,11,29.3,2016,"Horror, Mystery, Thriller",4.8,34,36009,Horror, Mystery, Thriller
+239,When the Bough Breaks,SGem,30.7,29.7,97,911,3,2016,"Crime, Drama, Horror",5,28,4606,Crime, Drama, Horror
+240,Star Wars: The Force Awakens,BV,2068.2,936.7,45.3,1131.6,54.7,2015,"Action, Adventure, Fantasy",8,81,775918,Action, Adventure, Fantasy
+241,Jurassic World,Uni.,1671.7,652.3,39,1019.4,61,2015,"Action, Adventure, Sci-Fi",7,59,532709,Action, Adventure, Sci-Fi
+242,Furious 7,Uni.,1516,353,23.3,1163,76.7,2015,"Action, Crime, Thriller",7.2,67,332098,Action, Crime, Thriller
+243,Avengers: Age of Ultron,BV,1405.4,459,32.7,946.4,67.3,2015,"Action, Adventure, Sci-Fi",7.4,66,638954,Action, Adventure, Sci-Fi
+244,Minions,Uni.,1159.4,336,29,823.4,71,2015,"Animation, Action, Adventure",6.4,56,191109,Animation, Action, Adventure
+245,Spectre,Sony,880.7,200.1,22.7,680.6,77.3,2015,"Action, Adventure, Thriller",6.8,60,348920,Action, Adventure, Thriller
+246,Inside Out,BV,857.6,356.5,41.6,501.1,58.4,2015,"Animation, Adventure, Comedy",8.2,94,526058,Animation, Adventure, Comedy
+247,Mission: Impossible - Rogue Nation,Par.,682.7,195,28.6,487.7,71.4,2015,"Action, Adventure, Thriller",7.4,75,307487,Action, Adventure, Thriller
+248,The Hunger Games: Mockingjay - Part 2,LGF,653.4,281.7,43.1,371.7,56.9,2015,"Action, Adventure, Sci-Fi",6.6,65,247661,Action, Adventure, Sci-Fi
+249,The Martian,Fox,630.2,228.4,36.2,401.7,63.8,2015,"Adventure, Drama, Sci-Fi",8,80,668335,Adventure, Drama, Sci-Fi
+250,Fifty Shades of Grey,Uni.,571,166.2,29.1,404.8,70.9,2015,"Drama, Romance, Thriller",4.1,46,276206,Drama, Romance, Thriller
+251,The Revenant,Fox,533,183.6,34.5,349.3,65.5,2015,"Action, Adventure, Biography",8,76,609352,Action, Adventure, Biography
+252,Ant-Man,BV,519.3,180.2,34.7,339.1,65.3,2015,"Action, Adventure, Comedy",7.3,64,481925,Action, Adventure, Comedy
+253,Hotel Transylvania 2,Sony,474.8,169.7,35.7,305.1,64.3,2015,"Animation, Comedy, Family",6.7,44,91116,Animation, Comedy, Family
+254,San Andreas,WB (NL),474,155.2,32.7,318.8,67.3,2015,"Action, Adventure, Drama",6.1,43,190148,Action, Adventure, Drama
+255,Kingsman: The Secret Service,Fox,414.4,128.3,31,286.1,69,2015,"Action, Adventure, Comedy",7.7,60,537150,Action, Adventure, Comedy
+256,Mad Max: Fury Road,WB,378.4,153.6,40.6,224.8,59.4,2015,"Action, Adventure, Sci-Fi",8.1,90,768429,Action, Adventure, Sci-Fi
+257,The Good Dinosaur,BV,332.2,123.1,37.1,209.1,62.9,2015,"Animation, Adventure, Comedy",6.7,66,90436,Animation, Adventure, Comedy
+258,Taken 3,Fox,326.5,89.3,27.3,237.2,72.7,2015,"Action, Thriller",6,26,163317,Action, Thriller,
+259,The SpongeBob Movie: Sponge Out of Water,Par.,325.2,163,50.1,162.2,49.9,2015,"Animation, Adventure, Comedy",6,62,42838,Animation, Adventure, Comedy
+260,Maze Runner: The Scorch Trials,Fox,312.3,81.7,26.2,230.6,73.8,2015,"Action, Sci-Fi, Thriller",6.3,43,198219,Action, Sci-Fi, Thriller
+261,Pitch Perfect 2,Uni.,287.5,184.3,64.1,103.2,35.9,2015,"Comedy, Music",6.4,63,129090,Comedy, Music,
+262,Paddington,W/Dim.,268,76.3,28.5,191.8,71.5,2015,"Adventure, Comedy, Family",7.2,77,82976,Adventure, Comedy, Family
+263,The Peanuts Movie,Fox,246.2,130.2,52.9,116.1,47.1,2015,"Animation, Comedy, Drama",7.1,67,38807,Animation, Comedy, Drama
+264,Pixels,Sony,244.9,78.7,32.2,166.1,67.8,2015,"Action, Comedy, Sci-Fi",5.6,27,118349,Action, Comedy, Sci-Fi
+265,Daddy's Home,Par.,242.8,150.4,61.9,92.4,38.1,2015,Comedy,6.2,42,95327,Comedy,,
+266,Spy,Fox,235.7,110.8,47,124.8,53,2015,"Action, Comedy, Crime",7,75,212085,Action, Comedy, Crime
+267,Alvin & the Chipmunks: The Road Chip,Fox,234.8,85.9,36.6,148.9,63.4,2015,"Animation, Adventure, Comedy",5.1,33,14178,Animation, Adventure, Comedy
+268,Ted 2,Uni.,216.7,81.5,37.6,135.2,62.4,2015,Comedy,6.3,48,163217,Comedy,,
+269,Tomorrowl&,BV,209.2,93.4,44.7,115.7,55.3,2015,"Action, Adventure, Family",6.4,60,160077,Action, Adventure, Family
+270,Straight Outta Compton,Uni.,201.6,161.2,79.9,40.4,20.1,2015,"Biography, Drama, History",7.9,72,163638,Biography, Drama, History
+271,The Intern,WB,194.6,75.8,38.9,118.8,61.1,2015,"Comedy, Drama",7.1,51,189223,Comedy, Drama,
+272,Jupiter Ascending,WB,184,47.4,25.8,136.6,74.2,2015,"Action, Adventure, Sci-Fi",5.3,40,164996,Action, Adventure, Sci-Fi
+273,Creed,WB (NL),173.6,109.8,63.2,63.8,36.8,2015,"Drama, Sport",7.6,82,220325,Drama, Sport,
+274,Fantastic Four,Fox,168,56.1,33.4,111.9,66.6,2015,"Action, Adventure, Drama",4.3,27,138592,Action, Adventure, Drama
+275,Bridge of Spies,BV,165.5,72.3,43.7,93.2,56.3,2015,"Drama, History, Thriller",7.6,81,260129,Drama, History, Thriller
+276,The Hateful Eight,Wein.,155.8,54.1,34.7,101.6,65.3,2015,"Crime, Drama, Mystery",7.8,68,425088,Crime, Drama, Mystery
+277,Goosebumps,Sony,150.2,80.1,53.3,70.1,46.7,2015,"Adventure, Comedy, Family",6.3,60,71641,Adventure, Comedy, Family
+278,The Last Witch Hunter,LG/S,146.9,27.4,18.6,119.6,81.4,2015,"Action, Adventure, Fantasy",6,34,84846,Action, Adventure, Fantasy
+279,Trainwreck,Uni.,140.8,110.2,78.3,30.6,21.7,2015,"Comedy, Drama, Romance",6.2,75,120741,Comedy, Drama, Romance
+280,The Big Short,Par.,133.4,70.3,52.7,63.2,47.3,2015,"Biography, Comedy, Drama",7.8,81,303932,Biography, Comedy, Drama
+281,Pan,WB,128.4,35.1,27.3,93.3,72.7,2015,"Adventure, Comedy, Family",5.8,36,55360,Adventure, Comedy, Family
+282,Magic Mike XXL,WB,122.5,66,53.9,56.5,46.1,2015,"Comedy, Drama, Music",5.6,60,48063,Comedy, Drama, Music
+283,Get Hard,WB,111.8,90.4,80.9,21.4,19.1,2015,"Comedy, Crime",6,34,109808,Comedy, Crime,
+284,Paul Blart: Mall Cop 2,Sony,107.6,71,66,36.6,34,2015,"Action, Comedy, Crime",4.4,13,30414,Action, Comedy, Crime
+285,Sisters,Uni.,105,87,82.9,18,17.1,2015,Comedy,6,58,58291,Comedy,,
+286,Vacation,WB (NL),104.9,58.9,56.1,46,43.9,2015,"Adventure, Comedy",6.1,34,86483,Adventure, Comedy,
+287,Chappie,Sony,102.1,31.6,30.9,70.5,69.1,2015,"Action, Crime, Drama",6.8,41,211705,Action, Crime, Drama
+288,Joy,Fox,101.1,56.5,55.8,44.7,44.2,2015,Drama,6.6,56,116751,Drama,,
+289,Black Mass,WB,99.8,62.6,62.7,37.2,37.3,2015,"Biography, Crime, Drama",6.9,68,154548,Biography, Crime, Drama
+290,The Visit,Uni.,98.5,65.2,66.2,33.2,33.8,2015,"Comedy, Horror, Mystery",6.2,55,100958,Comedy, Horror, Mystery
+291,Spotlight,ORF,98.3,45.1,45.8,53.2,54.2,2015,"Crime, Drama",8.1,93,358678,Crime, Drama,
+292,In the Heart of the Sea,WB,93.9,25,26.6,68.9,73.4,2015,"Action, Adventure, Biography",6.9,47,107205,Action, Adventure, Biography
+293,Southpaw,Wein.,92,52.4,57,39.5,43,2015,"Drama, Sport",7.4,57,197768,Drama, Sport,
+294,The Second Best Exotic Marigold Hotel,FoxS,86,33.1,38.5,52.9,61.5,2015,"Comedy, Drama",6.6,51,28639,Comedy, Drama,
+295,Paper Towns,Fox,85.5,32,37.4,53.5,62.6,2015,"Comedy, Drama, Mystery",6.3,56,86745,Comedy, Drama, Mystery
+296,Sicario,LGF,84.9,46.9,55.2,38,44.8,2015,"Action, Crime, Drama",7.6,82,323315,Action, Crime, Drama
+297,The Wedding Ringer,SGem,79.8,64.5,80.8,15.3,19.2,2015,Comedy,6.7,35,66411,Comedy,,
+298,Crimson Peak,Uni.,74.7,31.1,41.6,43.6,58.4,2015,"Drama, Fantasy, Horror",6.5,66,117955,Drama, Fantasy, Horror
+299,Run All Night,WB,71.7,26.5,36.9,45.2,63.1,2015,"Action, Crime, Drama",6.6,59,93226,Action, Crime, Drama
+300,War Room,TriS,67.8,67.8,100,,0,2015,Drama,6.4,26,11537,Drama,,
+301,The Age of Adaline,LGF,65.7,42.6,64.9,23,35.1,2015,"Drama, Fantasy, Romance",7.2,51,137028,Drama, Fantasy, Romance
+302,Unfriended,Uni.,64.1,32.5,50.7,31.6,49.3,2015,"Drama, Horror, Mystery",5.6,59,61145,Drama, Horror, Mystery
+303,The Longest Ride,Fox,62.9,37.4,59.5,25.5,40.5,2015,"Drama, Romance",7.1,33,69477,Drama, Romance,
+304,Brooklyn,FoxS,62.1,38.3,61.7,23.8,38.3,2015,"Drama, Romance",7.5,88,115620,Drama, Romance,
+305,Woman in Gold,Wein.,61.6,33.3,54.1,28.3,45.9,2015,"Biography, Drama, History",7.3,51,47912,Biography, Drama, History
+306,Krampus,Uni.,61.5,42.7,69.4,18.8,30.6,2015,"Comedy, Fantasy, Horror",6.2,49,54883,Comedy, Fantasy, Horror
+307,The Perfect Guy,SGem,60.3,57,94.6,3.2,5.4,2015,"Drama, Thriller",5.6,36,8874,Drama, Thriller,
+308,No Escape,Wein.,54.4,27.3,50.1,27.1,49.9,2015,"Action, Thriller",6.8,38,69416,Action, Thriller,
+309,Sinister 2,Focus,52.9,27.7,52.5,25.1,47.5,2015,"Horror, Mystery, Thriller",5.3,32,40836,Horror, Mystery, Thriller
+310,The Boy Next Door,Uni.,52.4,35.4,67.6,17,32.4,2015,"Drama, Horror, Romance",4.7,30,34428,Drama, Horror, Romance
+311,The Night Before,Sony,52.4,43,82.2,9.3,17.8,2015,"Adventure, Comedy, Fantasy",6.4,58,57857,Adventure, Comedy, Fantasy
+312,Hot Pursuit,WB (NL),51.7,34.6,66.9,17.1,33.1,2015,"Action, Comedy, Crime",5.1,31,44341,Action, Comedy, Crime
+313,Entourage,WB,49.3,32.4,65.7,16.9,34.3,2015,Comedy,6.6,38,71013,Comedy,,
+314,The Woman in Black 2: Angel of Death,Rela.,48.9,26.5,54.2,22.4,45.8,2015,"Drama, Horror, Thriller",4.9,42,24352,Drama, Horror, Thriller
+315,"McFarl&, USA",BV,45.7,44.5,97.3,1.2,2.7,2015,"Biography, Drama, Sport",7.4,60,31332,Biography, Drama, Sport
+316,Love the Coopers,LGF,42.4,26.3,62,16.1,38,2015,"Comedy, Fantasy, Romance",5.8,31,17884,Comedy, Fantasy, Romance
+317,Ricki & the Flash,TriS,41.3,26.8,64.9,14.5,35.1,2015,"Comedy, Drama, Music",5.9,54,20734,Comedy, Drama, Music
+318,The Lazarus Effect,Rela.,38.4,25.8,67.3,12.6,32.7,2015,"Horror, Mystery, Sci-Fi",5.2,31,37013,Horror, Mystery, Sci-Fi
+319,A Walk in the Woods,BG,37.5,29.5,78.8,8,21.2,2015,"Adventure, Biography, Comedy",6.3,51,21771,Adventure, Biography, Comedy
+320,Ex Machina,A24,36.9,25.4,69,11.4,31,2015,"Drama, Mystery, Sci-Fi",7.7,78,417681,Drama, Mystery, Sci-Fi
+321,Transformers: Age of Extinction,Par.,1104.1,245.4,22.2,858.6,77.8,2014,"Action, Adventure, Sci-Fi",5.7,32,281077,Action, Adventure, Sci-Fi
+322,The Hobbit: The Battle of the Five Armies,WB (NL),956,255.1,26.7,700.9,73.3,2014,"Adventure, Fantasy",7.4,59,433778,Adventure, Fantasy,
+323,Guardians of the Galaxy,BV,773.3,333.2,43.1,440.2,56.9,2014,"Action, Adventure, Comedy",8.1,76,921329,Action, Adventure, Comedy
+324,Maleficent,BV,758.5,241.4,31.8,517.1,68.2,2014,"Action, Adventure, Family",7,56,301538,Action, Adventure, Family
+325,The Hunger Games: Mockingjay - Part 1,LGF,755.4,337.1,44.6,418.2,55.4,2014,"Action, Adventure, Sci-Fi",6.7,64,374507,Action, Adventure, Sci-Fi
+326,X-Men: Days of Future Past,Fox,747.9,233.9,31.3,513.9,68.7,2014,"Action, Adventure, Sci-Fi",8,75,611558,Action, Adventure, Sci-Fi
+327,Captain America: The Winter Soldier,BV,714.3,259.8,36.4,454.5,63.6,2014,"Action, Adventure, Sci-Fi",7.8,70,645914,Action, Adventure, Sci-Fi
+328,Dawn of the Planet of the Apes,Fox,710.6,208.5,29.3,502.1,70.7,2014,"Action, Adventure, Drama",7.6,79,386559,Action, Adventure, Drama
+329,The Amazing Spider-Man 2,Sony,709,202.9,28.6,506.1,71.4,2014,"Action, Adventure, Sci-Fi",6.6,53,383303,Action, Adventure, Sci-Fi
+330,Interstellar,Par.,677.5,188,27.8,489.4,72.2,2014,"Adventure, Drama, Sci-Fi",8.6,74,1272163,Adventure, Drama, Sci-Fi
+331,Big Hero 6,BV,657.8,222.5,33.8,435.3,66.2,2014,"Animation, Action, Adventure",7.8,74,364696,Animation, Action, Adventure
+332,How to Train Your Dragon 2,Fox,621.5,177,28.5,444.5,71.5,2014,"Animation, Action, Adventure",7.8,76,272094,Animation, Action, Adventure
+333,American Sniper,WB,547.4,350.1,64,197.3,36,2014,"Action, Biography, Drama",7.3,72,397605,Action, Biography, Drama
+334,Rio 2,Fox,500.1,131.5,26.3,368.6,73.7,2014,"Animation, Adventure, Comedy",6.3,49,71248,Animation, Adventure, Comedy
+335,Lucy,Uni.,463.4,126.7,27.3,336.7,72.7,2014,"Action, Sci-Fi, Thriller",6.4,61,398333,Action, Sci-Fi, Thriller
+336,Penguins of Madagascar,Fox,373,83.4,22.3,289.7,77.7,2014,"Animation, Adventure, Comedy",6.7,53,71824,Animation, Adventure, Comedy
+337,Edge of Tomorrow,WB,370.5,100.2,27,270.3,73,2014,"Action, Sci-Fi",7.9,71,539914,Action, Sci-Fi,
+338,Gone Girl,Fox,369.3,167.8,45.4,201.6,54.6,2014,"Drama, Mystery, Thriller",8.1,79,750747,Drama, Mystery, Thriller
+339,Night at the Museum: Secret of the Tomb,Fox,363.2,113.7,31.3,249.5,68.7,2014,"Adventure, Comedy, Family",6.2,47,91313,Adventure, Comedy, Family
+340,Noah,Par.,362.6,101.2,27.9,261.4,72.1,2014,"Action, Adventure, Drama",5.8,68,227523,Action, Adventure, Drama
+341,The Maze Runner,Fox,348.3,102.4,29.4,245.9,70.6,2014,"Action, Mystery, Sci-Fi",6.8,57,382888,Action, Mystery, Sci-Fi
+342,22 Jump Street,Sony,331.3,191.7,57.9,139.6,42.1,2014,"Action, Comedy, Crime",7,71,315886,Action, Comedy, Crime
+343,Divergent,LG/S,288.9,150.9,52.3,137.9,47.7,2014,"Action, Adventure, Mystery",6.7,48,396301,Action, Adventure, Mystery
+344,Mr. Peabody & Sherman,Fox,275.7,111.5,40.4,164.2,59.6,2014,"Animation, Adventure, Comedy",6.8,59,56703,Animation, Adventure, Comedy
+345,Neighbors,Uni.,270.7,150.2,55.5,120.5,44.5,2014,Comedy,6.3,68,263408,Comedy,,
+346,Exodus: Gods & Kings,Fox,268.2,65,24.2,203.2,75.8,2014,"Action, Adventure, Drama",6,52,149735,Action, Adventure, Drama
+347,Annabelle,WB (NL),257,84.3,32.8,172.8,67.2,2014,"Horror, Mystery, Thriller",5.4,37,119252,Horror, Mystery, Thriller
+348,The Imitation Game,Wein.,233.6,91.1,39,142.4,61,2014,"Biography, Drama, Thriller",8,73,611408,Biography, Drama, Thriller
+349,Non-Stop,Uni.,222.8,92.2,41.4,130.6,58.6,2014,"Action, Mystery, Thriller",7,56,232829,Action, Mystery, Thriller
+350,Dracula Untold,Uni.,217.1,56.3,25.9,160.8,74.1,2014,"Action, Drama, Fantasy",6.3,40,163153,Action, Drama, Fantasy
+351,The Expendables 3,LGF,214.7,39.3,18.3,175.3,81.7,2014,"Action, Adventure, Thriller",6.1,35,154613,Action, Adventure, Thriller
+352,Into the Woods,BV,213.1,128,60.1,85.1,39.9,2014,"Adventure, Comedy, Drama",6,69,122487,Adventure, Comedy, Drama
+353,Need for Speed,BV,203.3,43.6,21.4,159.7,78.6,2014,"Action, Crime, Thriller",6.5,39,153846,Action, Crime, Thriller
+354,The Equalizer,Sony,192.3,101.5,52.8,90.8,47.2,2014,"Action, Crime, Thriller",7.2,57,297757,Action, Crime, Thriller
+355,The Gr& Budapest Hotel,FoxS,174.8,59.3,33.9,115.5,66.1,2014,"Adventure, Comedy, Crime",8.1,88,625378,Adventure, Comedy, Crime
+356,Dumb & Dumber To,Uni.,169.8,86.2,50.8,83.6,49.2,2014,"Adventure, Comedy",5.6,36,117335,Adventure, Comedy,
+357,Unbroken,Uni.,163.4,115.6,70.8,47.8,29.2,2014,"Biography, Drama, Sport",7.2,59,128834,Biography, Drama, Sport
+358,The Monuments Men,Sony,155,78,50.3,77,49.7,2014,"Comedy, Drama, History",6.1,52,116790,Comedy, Drama, History
+359,Ride Along,Uni.,154.5,134.9,87.4,19.5,12.6,2014,"Action, Comedy, Crime",6.2,41,93379,Action, Comedy, Crime
+360,Planes: Fire & Rescue,BV,151.4,59.2,39.1,92.2,60.9,2014,"Animation, Adventure, Comedy",6,48,15122,Animation, Adventure, Comedy
+361,Let's Be Cops,Fox,138.2,82.4,59.6,55.8,40.4,2014,"Comedy, Crime",6.4,30,120872,Comedy, Crime,
+362,Jack Ryan: Shadow Recruit,Par.,135.5,50.6,37.3,84.9,62.7,2014,"Action, Drama, Thriller",6.2,57,113860,Action, Drama, Thriller
+363,Blended,WB,128,46.3,36.2,81.7,63.8,2014,"Comedy, Romance",6.5,31,105211,Comedy, Romance,
+364,Sex Tape,Sony,126.1,38.5,30.6,87.5,69.4,2014,"Comedy, Romance",5.1,36,99583,Comedy, Romance,
+365,The Theory of Everything,Focus,123.7,35.9,29,87.8,71,2014,"Biography, Drama, Romance",7.7,72,356090,Biography, Drama, Romance
+366,The Nut Job,ORF,120.9,64.3,53.2,56.6,46.8,2014,"Animation, Adventure, Comedy",5.7,37,24362,Animation, Adventure, Comedy
+367,The Purge: Anarchy,Uni.,111.9,72,64.3,40,35.7,2014,"Action, Horror, Sci-Fi",6.5,50,124830,Action, Horror, Sci-Fi
+368,The Boxtrolls,Focus,109.3,50.8,46.5,58.4,53.5,2014,"Animation, Adventure, Comedy",6.8,61,50211,Animation, Adventure, Comedy
+369,Horrible Bosses 2,WB,107.7,54.4,50.6,53.2,49.4,2014,"Comedy, Crime",6.3,40,142796,Comedy, Crime,
+370,Ouija,Uni.,103.6,50.9,49.1,52.7,50.9,2014,"Horror, Mystery, Thriller",4.5,38,43512,Horror, Mystery, Thriller
+371,"Alex&er & the Terrible, Horrible, No Good, Very Bad Day",BV,101.4,67,66,34.4,34,2014,"Comedy, Family",6.2,54,36771,Comedy, Family,
+372,Tammy,WB (NL),100.5,84.5,84.1,16,15.9,2014,"Comedy, Romance",4.9,39,43914,Comedy, Romance,
+373,Paranormal Activity: The Marked Ones,Par.,90.9,32.5,35.7,58.4,64.3,2014,"Horror, Mystery, Thriller",5,42,36802,Horror, Mystery, Thriller
+374,The Hundred-Foot Journey,BV,88.9,54.2,61,34.6,39,2014,"Comedy, Drama",7.3,55,68630,Comedy, Drama,
+375,John Wick,LG/S,88.8,43,48.5,45.7,51.5,2014,"Action, Crime, Thriller",7.3,68,423455,Action, Crime, Thriller
+376,A Million Ways to Die in the West,Uni.,87.2,43.1,49.5,44.1,50.5,2014,"Comedy, Western",6.1,44,159217,Comedy, Western,
+377,The Judge,WB,84.4,47.1,55.8,37.3,44.2,2014,"Crime, Drama",7.4,48,160925,Crime, Drama,
+378,Muppets Most Wanted,BV,80.4,51.2,63.7,29.2,36.3,2014,"Adventure, Comedy, Crime",6.4,61,28749,Adventure, Comedy, Crime
+379,If I Stay,WB (NL),78.9,50.5,64,28.4,36,2014,"Drama, Fantasy, Music",6.8,46,106397,Drama, Fantasy, Music
+380,Think Like a Man Too,SGem,70.2,65.2,92.9,5,7.1,2014,"Comedy, Romance",5.8,38,18362,Comedy, Romance,
+381,Son of God,Fox,67.8,59.7,88.1,8.1,11.9,2014,"Biography, Drama, History",5.8,37,17393,Biography, Drama, History
+382,Jersey Boys,WB,67.7,47,69.5,20.6,30.5,2014,"Biography, Drama, Music",6.8,54,30147,Biography, Drama, Music
+383,The Giver,Wein.,67,45.1,67.3,21.9,32.7,2014,"Drama, Romance, Sci-Fi",6.5,47,104045,Drama, Romance, Sci-Fi
+384,Selma,Par.,66.8,52.1,78,14.7,22,2014,"Biography, Drama, History",7.5,88,76918,Biography, Drama, History
+385,God's Not Dead,Free,64.7,60.8,94,3.9,6,2014,Drama,4.8,16,37699,Drama,,
+386,Dolphin Tale 2,WB,57.8,42,72.7,15.8,27.3,2014,"Drama, Family",6.4,58,7457,Drama, Family,
+387,St. Vincent,Wein.,54.8,44.1,80.5,10.7,19.5,2014,"Comedy, Drama",7.3,64,88802,Comedy, Drama,
+388,A Walk Among the Tombstones,Uni.,53.2,26.3,49.5,26.9,50.5,2014,"Action, Crime, Drama",6.5,57,104175,Action, Crime, Drama
+389,3 Days to Kill,Rela.,52.6,30.7,58.4,21.9,41.6,2014,"Action, Drama, Thriller",6.2,40,80973,Action, Drama, Thriller
+390,Chef,ORF,46,31.4,68.4,14.5,31.6,2014,"Adventure, Comedy, Drama",7.3,68,171348,Adventure, Comedy, Drama
+391,Earth to Echo,Rela.,45.3,38.9,85.9,6.4,14.1,2014,"Adventure, Family, Sci-Fi",5.8,53,17514,Adventure, Family, Sci-Fi
+392,Boyhood,IFC,44.5,25.4,57,19.1,43,2014,Drama,7.9,100,313419,Drama,,
+393,Oculus,Rela.,44,27.7,62.9,16.3,37.1,2014,"Horror, Mystery",6.5,61,105773,Horror, Mystery,
+394,That Awkward Moment,Focus,40.5,26.1,64.4,14.4,35.6,2014,"Comedy, Romance",6.2,36,91343,Comedy, Romance,
+395,The Gambler,Par.,39.3,33.7,85.7,5.6,14.3,2014,"Crime, Drama, Thriller",6,55,59364,Crime, Drama, Thriller
+396,Million Dollar Arm,BV,39.2,36.5,92.9,2.8,7.1,2014,"Biography, Drama, Sport",7,56,40728,Biography, Drama, Sport
+397,Nightcrawler,ORF,38.7,32.4,83.7,6.3,16.3,2014,"Crime, Drama, Thriller",7.9,76,398398,Crime, Drama, Thriller
+398,The Best of Me,Rela.,35.9,26.8,74.5,9.2,25.5,2014,"Drama, Romance",6.7,29,58872,Drama, Romance,
+399,The November Man,Rela.,32.6,25,76.8,7.5,23.2,2014,"Action, Crime, Thriller",6.3,38,58853,Action, Crime, Thriller
+400,When the Game St&s Tall,TriS,30.1,30.1,100,,0,2014,"Drama, Family, Sport",6.7,41,14407,Drama, Family, Sport
+401,Draft Day,LG/S,29.5,28.8,97.9,620,2.1,2014,"Drama, Sport",6.8,54,48149,Drama, Sport,
+402,Top Five,Par.,26.1,25.3,96.9,800,3.1,2014,"Comedy, Romance",6.4,81,24622,Comedy, Romance,
+403,Frozen,BV,1276.5,400.7,31.4,875.7,68.6,2013,"Animation, Adventure, Comedy",7.5,74,510950,Animation, Adventure, Comedy
+404,Despicable Me 2,Uni.,970.8,368.1,37.9,602.7,62.1,2013,"Animation, Adventure, Comedy",7.4,62,340528,Animation, Adventure, Comedy
+405,The Hobbit: The Desolation of Smaug,WB (NL),958.4,258.4,27,700,73,2013,"Adventure, Fantasy",7.8,66,560786,Adventure, Fantasy,
+406,The Hunger Games: Catching Fire,LGF,865,424.7,49.1,440.3,50.9,2013,"Action, Adventure, Sci-Fi",7.5,76,570496,Action, Adventure, Sci-Fi
+407,Monsters University,BV,744.2,268.5,36.1,475.7,63.9,2013,"Animation, Adventure, Comedy",7.3,65,288243,Animation, Adventure, Comedy
+408,Gravity,WB,723.2,274.1,37.9,449.1,62.1,2013,"Drama, Sci-Fi, Thriller",7.7,96,701279,Drama, Sci-Fi, Thriller
+409,Man of Steel,WB,668,291,43.6,377,56.4,2013,"Action, Adventure, Sci-Fi",7.1,55,639940,Action, Adventure, Sci-Fi
+410,Thor: The Dark World,BV,644.6,206.4,32,438.2,68,2013,"Action, Adventure, Fantasy",7,54,526035,Action, Adventure, Fantasy
+411,The Croods,Fox,587.2,187.2,31.9,400,68.1,2013,"Animation, Action, Adventure",7.2,55,175230,Animation, Action, Adventure
+412,World War Z,Par.,540,202.4,37.5,337.6,62.5,2013,"Action, Adventure, Horror",7,63,547551,Action, Adventure, Horror
+413,Star Trek Into Darkness,Par.,467.4,228.8,48.9,238.6,51.1,2013,"Action, Adventure, Sci-Fi",7.7,72,443199,Action, Adventure, Sci-Fi
+414,The Wolverine,Fox,414.8,132.6,32,282.3,68,2013,"Action, Adventure, Sci-Fi",6.7,61,395729,Action, Adventure, Sci-Fi
+415,Pacific Rim,WB,411,101.8,24.8,309.2,75.2,2013,"Action, Adventure, Sci-Fi",6.9,65,440049,Action, Adventure, Sci-Fi
+416,The Wolf of Wall Street,Par.,392,116.9,29.8,275.1,70.2,2013,"Biography, Crime, Drama",8.2,75,1018558,Biography, Crime, Drama
+417,G.I. Joe: Retaliation,Par.,375.7,122.5,32.6,253.2,67.4,2013,"Action, Adventure, Sci-Fi",5.8,41,164670,Action, Adventure, Sci-Fi
+418,The Hangover Part III,WB,362,112.2,31,249.8,69,2013,"Adventure, Comedy, Crime",5.8,30,267555,Adventure, Comedy, Crime
+419,Now You See Me,LG/S,351.7,117.7,33.5,234,66.5,2013,"Crime, Mystery, Thriller",7.3,50,547421,Crime, Mystery, Thriller
+420,The Smurfs 2,Sony,347.5,71,20.4,276.5,79.6,2013,"Animation, Adventure, Comedy",5.4,34,33800,Animation, Adventure, Comedy
+421,The Conjuring,WB (NL),319.5,137.4,43,182.1,57,2013,"Horror, Mystery, Thriller",7.5,68,389960,Horror, Mystery, Thriller
+422,A Good Day to Die Hard,Fox,304.7,67.3,22.1,237.3,77.9,2013,"Action, Thriller",5.3,28,187036,Action, Thriller,
+423,Oblivion,Uni.,286.2,89.1,31.1,197.1,68.9,2013,"Action, Adventure, Sci-Fi",7,54,448912,Action, Adventure, Sci-Fi
+424,Elysium,TriS,286.1,93.1,32.5,193.1,67.5,2013,"Action, Drama, Sci-Fi",6.6,61,392119,Action, Drama, Sci-Fi
+425,Turbo,Fox,282.6,83,29.4,199.5,70.6,2013,"Animation, Adventure, Comedy",6.4,58,73597,Animation, Adventure, Comedy
+426,Cloudy with a Chance of Meatballs 2,Sony,274.3,119.8,43.7,154.5,56.3,2013,"Animation, Action, Adventure",6.4,59,79855,Animation, Action, Adventure
+427,We're the Millers,WB (NL),270,150.4,55.7,119.6,44.3,2013,"Comedy, Crime",7,44,368440,Comedy, Crime,
+428,Epic,Fox,268.4,107.5,40.1,160.9,59.9,2013,"Animation, Adventure, Family",6.7,52,94747,Animation, Adventure, Family
+429,The Lone Ranger,BV,260.5,89.3,34.3,171.2,65.7,2013,"Action, Adventure, Western",6.4,37,207292,Action, Adventure, Western
+430,American Hustle,Sony,251.2,150.1,59.8,101.1,40.2,2013,"Crime, Drama",7.2,90,414989,Crime, Drama,
+431,Grown Ups 2,Sony,247,133.7,54.1,113.3,45.9,2013,Comedy,5.4,19,127142,Comedy,,
+432,After Earth,Sony,243.8,60.5,24.8,183.3,75.2,2013,"Action, Adventure, Sci-Fi",4.8,33,180395,Action, Adventure, Sci-Fi
+433,Planes,BV,239.3,90.3,37.7,149,62.3,2013,"Animation, Adventure, Comedy",5.7,39,39615,Animation, Adventure, Comedy
+434,The Heat,Fox,229.9,159.6,69.4,70.3,30.6,2013,"Action, Comedy, Crime",6.6,60,152447,Action, Comedy, Crime
+435,Hansel & Gretel: Witch Hunters,Par.,226.3,55.7,24.6,170.6,75.4,2013,"Action, Fantasy, Horror",6.1,23,181605,Action, Fantasy, Horror
+436,Captain Phillips,Sony,218.8,107.1,49,111.7,51,2013,"Biography, Drama, Thriller",7.8,83,383719,Biography, Drama, Thriller
+437,White House Down,Sony,205.4,73.1,35.6,132.3,64.4,2013,"Action, Drama, Thriller",6.4,52,190112,Action, Drama, Thriller
+438,Percy Jackson: Sea of Monsters,Fox,199.9,68.6,34.3,131.3,65.7,2013,"Adventure, Family, Fantasy",5.8,39,101416,Adventure, Family, Fantasy
+439,Jack the Giant Slayer,WB (NL),197.7,65.2,33,132.5,67,2013,"Adventure, Fantasy",6.3,51,121888,Adventure, Fantasy,
+440,The Secret Life of Walter Mitty,Fox,188.1,58.2,31,129.9,69,2013,"Adventure, Comedy, Drama",7.3,54,273300,Adventure, Comedy, Drama
+441,12 Years a Slave,FoxS,187.7,56.7,30.2,131.1,69.8,2013,"Biography, Drama, History",8.1,96,570116,Biography, Drama, History
+442,Identity Thief,Uni.,174,134.5,77.3,39.5,22.7,2013,"Adventure, Comedy, Crime",5.7,35,114321,Adventure, Comedy, Crime
+443,Anchorman 2: The Legend Continues,Par.,171.5,125.2,73,46.3,27,2013,Comedy,6.3,61,154589,Comedy,,
+444,Olympus Has Fallen,FD,170.3,98.9,58.1,71.3,41.9,2013,"Action, Thriller",6.5,41,233243,Action, Thriller,
+445,Lone Survivor,Uni.,154.8,125.1,80.8,29.7,19.2,2013,"Action, Biography, Drama",7.5,60,244398,Action, Biography, Drama
+446,47 Ronin,Uni.,151.8,38.4,25.3,113.4,74.7,2013,"Action, Adventure, Drama",6.3,28,134309,Action, Adventure, Drama
+447,Mama,Uni.,146.4,71.6,48.9,74.8,51.1,2013,"Horror, Thriller",6.2,57,157267,Horror, Thriller,
+448,Escape Plan,LG/S,137.3,25.1,18.3,112.2,81.7,2013,"Action, Crime, Mystery",6.7,49,209763,Action, Crime, Mystery
+449,Last Vegas,CBS,134.4,63.9,47.6,70.5,52.4,2013,"Comedy, Drama",6.6,48,120686,Comedy, Drama,
+450,2 Guns,Uni.,131.9,75.6,57.3,56.3,42.7,2013,"Action, Comedy, Crime",6.7,55,180529,Action, Comedy, Crime
+451,Ender's Game,LG/S,125.5,61.7,49.2,63.8,50.8,2013,"Action, Adventure, Fantasy",6.6,51,209971,Action, Adventure, Fantasy
+452,Prisoners,WB,122.1,61,50,61.1,50,2013,"Crime, Drama, Mystery",8.1,74,518591,Crime, Drama, Mystery
+453,Saving Mr. Banks,BV,117.9,83.3,70.7,34.6,29.3,2013,"Biography, Comedy, Drama",7.5,65,138845,Biography, Comedy, Drama
+454,Warm Bodies,LG/S,117,66.4,56.7,50.6,43.3,2013,"Comedy, Horror, Romance",6.9,60,207346,Comedy, Horror, Romance
+455,Free Birds,Rela.,110.4,55.8,50.5,54.6,49.5,2013,"Animation, Adventure, Comedy",5.9,38,20763,Animation, Adventure, Comedy
+456,Gangster Squad,WB,105.2,46,43.7,59.2,56.3,2013,"Action, Crime, Drama",6.7,40,194190,Action, Crime, Drama
+457,Philomena,Wein.,100.1,37.7,37.7,62.4,62.3,2013,"Biography, Comedy, Drama",7.6,77,88134,Biography, Comedy, Drama
+458,Instructions Not Included,LGF,99.1,44.5,44.9,54.6,55.1,2013,"Comedy, Drama",7.6,55,26566,Comedy, Drama,
+459,Riddick,Uni.,98.3,42,42.7,56.3,57.3,2013,"Action, Adventure, Crime",6.4,49,143657,Action, Adventure, Crime
+460,Safe Haven,Rela.,97.6,71.3,73.1,26.2,26.9,2013,"Drama, Romance, Thriller",6.7,34,95953,Drama, Romance, Thriller
+461,Blue Jasmine,SPC,97.5,33.4,34.3,64.1,65.7,2013,Drama,7.3,78,178018,Drama,,
+462,The Mortal Instruments: City of Bones,SGem,95.4,31.2,32.7,64.2,67.3,2013,"Action, Fantasy, Horror",5.9,33,120939,Action, Fantasy, Horror
+463,The Internship,Fox,93.5,44.7,47.8,48.8,52.2,2013,Comedy,6.3,42,178710,Comedy,,
+464,The Purge,Uni.,89.3,64.5,72.2,24.9,27.8,2013,"Horror, Thriller",5.7,41,180799,Horror, Thriller,
+465,Pain & Gain,Par.,86.2,49.9,57.9,36.3,42.1,2013,"Action, Comedy, Crime",6.4,45,186306,Action, Comedy, Crime
+466,Scary Movie 5,W/Dim.,78.4,32,40.8,46.4,59.2,2013,Comedy,3.5,11,59394,Comedy,,
+467,R.I.P.D.,Uni.,78.3,33.6,42.9,44.7,57.1,2013,"Action, Adventure, Comedy",5.6,25,108100,Action, Adventure, Comedy
+468,August: Osage County,Wein.,74.2,37.7,50.9,36.5,49.1,2013,Drama,7.2,58,78869,Drama,,
+469,The Best Man Holiday,Uni.,72.8,70.5,96.8,2.3,3.2,2013,"Comedy, Drama",6.7,59,13893,Comedy, Drama,
+470,The Call,TriS,68.6,51.9,75.6,16.7,24.4,2013,"Crime, Drama, Horror",6.7,51,102803,Crime, Drama, Horror
+471,Kick-Ass 2,Uni.,60.8,28.8,47.4,32,52.6,2013,"Action, Comedy, Crime",6.6,41,235707,Action, Comedy, Crime
+472,A Haunted House,ORF,60.1,40,66.6,20.1,33.4,2013,"Comedy, Fantasy",5.1,20,39897,Comedy, Fantasy,
+473,Dallas Buyers Club,Focus,55.2,27.3,49.5,27.9,50.5,2013,"Biography, Drama",8,84,398727,Biography, Drama,
+474,Delivery Man,BV,50,30.7,61.3,19.3,38.7,2013,"Comedy, Drama",6.4,44,70152,Comedy, Drama,
+475,21 & Over,Rela.,48.1,25.7,53.4,22.4,46.6,2013,Comedy,5.9,34,68014,Comedy,,
+476,Texas Chainsaw 3D,LGF,47.2,34.3,72.7,12.9,27.3,2013,"Horror, Thriller",4.8,31,41296,Horror, Thriller,
+477,The World's End,Focus,46.1,26,56.4,20.1,43.6,2013,"Action, Comedy, Sci-Fi",7,81,230087,Action, Comedy, Sci-Fi
+478,Grudge Match,WB,44.9,29.8,66.4,15.1,33.6,2013,"Comedy, Drama, Sport",6.4,35,53642,Comedy, Drama, Sport
+479,Snitch,LG/S,42.9,42.9,100,,0,2013,"Action, Drama, Thriller",6.5,51,77444,Action, Drama, Thriller
+480,Don Jon,Rela.,30.5,24.5,80.4,6,19.6,2013,"Comedy, Drama, Romance",6.6,66,214690,Comedy, Drama, Romance
+481,Skyfall,Sony,1108.6,304.4,27.5,804.2,72.5,2012,"Action, Adventure, Thriller",7.8,81,588069,Action, Adventure, Thriller
+482,The Dark Knight Rises,WB,1084.9,448.1,41.3,636.8,58.7,2012,"Action, Thriller",8.4,78,1369376,Action, Thriller,
+483,The Hobbit: An Unexpected Journey,WB (NL),1021.1,303,29.7,718.1,70.3,2012,"Adventure, Family, Fantasy",7.9,58,715079,Adventure, Family, Fantasy
+484,Ice Age: Continental Drift,Fox,877.2,161.3,18.4,715.9,81.6,2012,"Animation, Adventure, Comedy",6.6,49,173287,Animation, Adventure, Comedy
+485,The Amazing Spider-Man,Sony,757.9,262,34.6,495.9,65.4,2012,"Action, Adventure, Sci-Fi",7,66,519636,Action, Adventure, Sci-Fi
+486,Madagascar 3: Europe's Most Wanted,P/DW,746.9,216.4,29,530.5,71,2012,"Animation, Adventure, Comedy",6.8,60,144512,Animation, Adventure, Comedy
+487,The Hunger Games,LGF,694.4,408,58.8,286.4,41.2,2012,"Action, Adventure, Sci-Fi",7.2,68,789407,Action, Adventure, Sci-Fi
+488,Life of Pi,Fox,609,125,20.5,484,79.5,2012,"Adventure, Drama, Fantasy",7.9,79,529158,Adventure, Drama, Fantasy
+489,Ted,Uni.,549.4,218.8,39.8,330.6,60.2,2012,"Comedy, Fantasy",6.9,62,534070,Comedy, Fantasy,
+490,Brave,BV,540.4,237.3,43.9,303.2,56.1,2012,"Animation, Adventure, Comedy",7.1,69,334272,Animation, Adventure, Comedy
+491,Wreck-It Ralph,BV,471.2,189.4,40.2,281.8,59.8,2012,"Animation, Adventure, Comedy",7.7,72,338325,Animation, Adventure, Comedy
+492,Django Unchained,Wein.,425.4,162.8,38.3,262.6,61.7,2012,"Drama, Western",8.4,81,1192927,Drama, Western,
+493,Prometheus,Fox,403.4,126.5,31.4,276.9,68.6,2012,"Adventure, Mystery, Sci-Fi",7,64,534939,Adventure, Mystery, Sci-Fi
+494,Snow White & the Huntsman,Uni.,396.6,155.3,39.2,241.3,60.8,2012,"Action, Adventure, Drama",6.1,57,257110,Action, Adventure, Drama
+495,Taken 2,Fox,376.1,139.9,37.2,236.3,62.8,2012,"Action, Thriller",6.3,45,271021,Action, Thriller,
+496,Hotel Transylvania,Sony,358.4,148.3,41.4,210.1,58.6,2012,"Animation, Comedy, Family",7.1,47,202341,Animation, Comedy, Family
+497,Journey 2: The Mysterious Isl&,WB (NL),335.3,103.9,31,231.4,69,2012,"Action, Adventure, Comedy",5.8,41,82514,Action, Adventure, Comedy
+498,The Expendables 2,LGF,315,85,27,229.9,73,2012,"Action, Adventure, Thriller",6.6,51,275639,Action, Adventure, Thriller
+499,Rise of the Guardians,P/DW,306.9,103.4,33.7,203.5,66.3,2012,"Animation, Action, Adventure",7.3,57,143893,Animation, Action, Adventure
+500,Wrath of the Titans,WB,305.3,83.7,27.4,221.6,72.6,2012,"Action, Adventure, Fantasy",5.7,37,170893,Action, Adventure, Fantasy
+501,Battleship,Uni.,303,65.4,21.6,237.6,78.4,2012,"Action, Adventure, Sci-Fi",5.8,41,224153,Action, Adventure, Sci-Fi
+502,John Carter,BV,284.1,73.1,25.7,211.1,74.3,2012,"Action, Adventure, Sci-Fi",6.6,51,237415,Action, Adventure, Sci-Fi
+503,The Bourne Legacy,Uni.,276.1,113.2,41,162.9,59,2012,"Action, Adventure, Thriller",6.7,61,266569,Action, Adventure, Thriller
+504,Lincoln,BV,275.3,182.2,66.2,93.1,33.8,2012,"Biography, Drama, History",7.4,86,226993,Biography, Drama, History
+505,Dark Shadows,WB,245.5,79.7,32.5,165.8,67.5,2012,"Comedy, Fantasy, Horror",6.2,55,227569,Comedy, Fantasy, Horror
+506,Resident Evil: Retribution,SGem,240,42.3,17.6,197.7,82.4,2012,"Action, Horror, Sci-Fi",5.4,39,124200,Action, Horror, Sci-Fi
+507,Silver Linings Playbook,Wein.,236.4,132.1,55.9,104.3,44.1,2012,"Comedy, Drama, Romance",7.7,81,616768,Comedy, Drama, Romance
+508,American Reunion,Uni.,235,57,24.3,178,75.7,2012,Comedy,6.7,49,190817,Comedy,,
+509,Argo,WB,232.3,136,58.5,96.3,41.5,2012,"Biography, Drama, Thriller",7.7,86,530334,Biography, Drama, Thriller
+510,Jack Reacher,Par.,218.3,80.1,36.7,138.3,63.3,2012,"Action, Crime, Thriller",7,50,281850,Action, Crime, Thriller
+511,Safe House,Uni.,208.1,126.4,60.7,81.7,39.3,2012,"Action, Adventure, Crime",6.8,52,191090,Action, Adventure, Crime
+512,21 Jump Street,Sony,201.6,138.4,68.7,63.1,31.3,2012,"Action, Comedy, Crime",7.2,69,473512,Action, Comedy, Crime
+513,The Vow,SGem,196.1,125,63.7,71.1,36.3,2012,"Drama, Romance",6.8,43,171981,Drama, Romance,
+514,Mirror Mirror,Rela.,183,64.9,35.5,118.1,64.5,2012,"Adventure, Comedy, Drama",5.6,46,78962,Adventure, Comedy, Drama
+515,The Dictator,Par.,179.4,59.7,33.3,119.7,66.7,2012,Comedy,6.4,58,248413,Comedy,,
+516,Looper,TriS,176.5,66.5,37.7,110,62.3,2012,"Action, Crime, Drama",7.4,84,496056,Action, Crime, Drama
+517,Magic Mike,WB,167.2,113.7,68,53.5,32,2012,"Comedy, Drama",6.1,72,123060,Comedy, Drama,
+518,Flight,Par.,161.8,93.8,58,68,42,2012,"Drama, Thriller",7.3,76,300463,Drama, Thriller,
+519,Underworld Awakening,SGem,160.1,62.3,38.9,97.8,61.1,2012,"Action, Fantasy, Horror",6.4,39,137317,Action, Fantasy, Horror
+520,This Means War,Fox,156.5,54.8,35,101.7,65,2012,"Action, Comedy, Romance",6.3,31,166414,Action, Comedy, Romance
+521,Paranormal Activity 4,Par.,142.8,53.9,37.7,88.9,62.3,2012,"Horror, Mystery, Thriller",4.6,40,57904,Horror, Mystery, Thriller
+522,Step Up Revolution,LG/S,140.5,35.1,25,105.4,75,2012,"Drama, Music, Romance",6.5,43,50940,Drama, Music, Romance
+523,The Best Exotic Marigold Hotel,FoxS,136.8,46.4,33.9,90.4,66.1,2012,"Comedy, Drama, Romance",7.3,62,85172,Comedy, Drama, Romance
+524,Zero Dark Thirty,Sony,132.8,95.7,72.1,37.1,27.9,2012,"Drama, Thriller",7.4,95,248522,Drama, Thriller,
+525,Ghost Rider: Spirit of Vengeance,Sony,132.6,51.8,39.1,80.8,60.9,2012,"Action, Fantasy, Thriller",4.3,34,102529,Action, Fantasy, Thriller
+526,Cloud Atlas,WB,130.5,27.1,20.8,103.4,79.2,2012,"Action, Drama, Mystery",7.4,55,324350,Action, Drama, Mystery
+527,The Woman in Black,CBS,127.7,54.3,42.5,73.4,57.5,2012,"Drama, Fantasy, Horror",6.4,62,164307,Drama, Fantasy, Horror
+528,The Pirates! B& of Misfits,Sony,123.1,31.1,25.2,92,74.8,2012,"Animation, Adventure, Comedy",6.7,73,41626,Animation, Adventure, Comedy
+529,Parental Guidance,Fox,119.8,77.3,64.5,42.5,35.5,2012,"Comedy, Family",6.1,36,23593,Comedy, Family,
+530,Abraham Lincoln: Vampire Hunter,Fox,116.5,37.5,32.2,79,67.8,2012,"Action, Fantasy, Horror",5.9,42,141983,Action, Fantasy, Horror
+531,Pitch Perfect,Uni.,115.4,65,56.4,50.3,43.6,2012,"Comedy, Music, Romance",7.2,66,254018,Comedy, Music, Romance
+532,Hope Springs,Sony,114.3,63.5,55.6,50.7,44.4,2012,"Comedy, Drama, Romance",6.3,65,38446,Comedy, Drama, Romance
+533,ParaNorman,Focus,107.1,56,52.3,51.1,47.7,2012,"Animation, Adventure, Comedy",7,72,86378,Animation, Adventure, Comedy
+534,The Campaign,WB,104.9,86.9,82.8,18,17.2,2012,Comedy,6.1,50,118120,Comedy,,
+535,Project X,WB,102.7,54.7,53.3,48,46.7,2012,Comedy,6.7,48,176516,Comedy,,
+536,The Devil Inside,Par.,101.8,53.3,52.3,48.5,47.7,2012,Horror,4.2,18,33339,Horror,,
+537,The Lucky One,WB,99.4,60.5,60.8,38.9,39.2,2012,"Drama, Romance",6.5,39,93406,Drama, Romance,
+538,Contrab&,Uni.,96.3,66.5,69.1,29.7,30.9,2012,"Action, Crime, Drama",6.5,51,111020,Action, Crime, Drama
+539,Think Like a Man,SGem,96.1,91.5,95.3,4.5,4.7,2012,"Comedy, Romance",6.6,51,40718,Comedy, Romance,
+540,This Is 40,Uni.,88.1,67.5,76.7,20.5,23.3,2012,"Comedy, Romance",6.2,59,117975,Comedy, Romance,
+541,The Possession,LGF,85.4,49.1,57.5,36.3,42.5,2012,"Horror, Mystery, Thriller",5.9,45,53284,Horror, Mystery, Thriller
+542,What to Expect When You're Expecting,LGF,84.4,41.2,48.8,43.2,51.2,2012,"Comedy, Drama, Romance",5.7,41,65405,Comedy, Drama, Romance
+543,Frankenweenie,BV,81.5,35.3,43.3,46.2,56.7,2012,"Animation, Comedy, Family",7,74,88465,Animation, Comedy, Family
+544,Act of Valor,Rela.,81.3,70,86.1,11.3,13.9,2012,"Action, Adventure, Drama",6.5,40,63540,Action, Adventure, Drama
+545,Sinister,LG/S,77.7,48.1,61.9,29.6,38.1,2012,"Horror, Mystery, Thriller",6.8,53,195976,Horror, Mystery, Thriller
+546,The Grey,ORF,77.3,51.6,66.7,25.7,33.3,2012,"Action, Adventure, Drama",6.8,64,227329,Action, Adventure, Drama
+547,Diary of a Wimpy Kid: Dog Days,Fox,77.1,49,63.6,28.1,36.4,2012,"Comedy, Family",6.3,54,19290,Comedy, Family,
+548,Here Comes the Boom,Sony,73.1,45.3,62,27.8,38,2012,"Action, Comedy, Sport",6.4,40,81270,Action, Comedy, Sport
+549,The Watch,Fox,68.3,35.4,51.8,32.9,48.2,2012,"Action, Comedy, Horror",5.7,36,115135,Action, Comedy, Horror
+550,Moonrise Kingdom,Focus,68.3,45.5,66.7,22.8,33.3,2012,"Adventure, Comedy, Drama",7.8,84,288940,Adventure, Comedy, Drama
+551,The Cabin in the Woods,LGF,66.5,42.1,63.3,24.4,36.7,2012,"Comedy, Horror",7,72,334641,Comedy, Horror,
+552,Rock of Ages,WB (NL),59.4,38.5,64.8,20.9,35.2,2012,"Comedy, Drama, Musical",5.9,47,69440,Comedy, Drama, Musical
+553,That's My Boy,Sony,57.7,36.9,64,20.8,36,2012,Comedy,5.6,31,82056,Comedy,,
+554,The Odd Life of Timothy Green,BV,56,51.9,92.6,4.2,7.4,2012,"Comedy, Drama, Family",6.6,47,42503,Comedy, Drama, Family
+555,The Three Stooges,Fox,54.8,44.3,80.9,10.5,19.1,2012,"Comedy, Family",5.1,56,28340,Comedy, Family,
+556,The Five-Year Engagement,Uni.,53.9,28.8,53.5,25.1,46.5,2012,"Comedy, Romance",6.2,62,87827,Comedy, Romance,
+557,Lawless,Wein.,53.7,37.4,69.7,16.3,30.3,2012,"Crime, Drama",7.3,58,212575,Crime, Drama,
+558,Red Tails,Fox,50.4,49.9,99,489,1,2012,"Action, Adventure, Drama",5.9,46,31641,Action, Adventure, Drama
+559,Trouble with the Curve,WB,49,35.8,73,13.2,27,2012,"Drama, Sport",6.8,58,55587,Drama, Sport,
+560,End of Watch,ORF,48.1,41,85.2,7.1,14.8,2012,"Action, Crime, Drama",7.6,68,209638,Action, Crime, Drama
+561,The Guilt Trip,Par.,41.9,37.1,88.7,4.7,11.3,2012,"Comedy, Drama",5.8,50,33537,Comedy, Drama,
+562,Alex Cross,LG/S,34.6,25.9,74.8,8.7,25.2,2012,"Action, Crime, Mystery",5.1,30,30801,Action, Crime, Mystery
+563,Joyful Noise,WB,31.2,30.9,99.3,226,0.7,2012,"Comedy, Drama, Music",5.7,44,7528,Comedy, Drama, Music
+564,Transformers: Dark of the Moon,P/DW,1123.8,352.4,31.4,771.4,68.6,2011,"Action, Adventure, Sci-Fi",6.3,42,363695,Action, Adventure, Sci-Fi
+565,Pirates of the Caribbean: On Stranger Tides,BV,1045.7,241.1,23.1,804.6,76.9,2011,"Action, Adventure, Fantasy",6.6,45,442894,Action, Adventure, Fantasy
+566,Mission: Impossible - Ghost Protocol,Par.,694.7,209.4,30.1,485.3,69.9,2011,"Action, Adventure, Thriller",7.4,73,424282,Action, Adventure, Thriller
+567,Kung Fu P&a 2,P/DW,665.7,165.2,24.8,500.4,75.2,2011,"Animation, Action, Adventure",7.2,67,225118,Animation, Action, Adventure
+568,Fast Five,Uni.,626.1,209.8,33.5,416.3,66.5,2011,"Action, Crime, Thriller",7.3,66,327143,Action, Crime, Thriller
+569,The Hangover Part II,WB,586.8,254.5,43.4,332.3,56.6,2011,"Comedy, Mystery",6.5,44,429058,Comedy, Mystery,
+570,The Smurfs,Sony,563.7,142.6,25.3,421.1,74.7,2011,"Animation, Adventure, Comedy",5.5,30,76803,Animation, Adventure, Comedy
+571,Cars 2,BV,562.1,191.5,34.1,370.7,65.9,2011,"Animation, Adventure, Comedy",6.2,57,136017,Animation, Adventure, Comedy
+572,Puss in Boots,P/DW,555,149.3,26.9,405.7,73.1,2011,"Animation, Action, Adventure",6.6,65,132050,Animation, Action, Adventure
+573,Sherlock Holmes: A Game of Shadows,WB,545.4,186.8,34.3,358.6,65.7,2011,"Action, Adventure, Crime",7.5,48,390461,Action, Adventure, Crime
+574,Rio,Fox,484.6,143.6,29.6,341,70.4,2011,"Animation, Adventure, Comedy",6.9,63,189848,Animation, Adventure, Comedy
+575,Rise of the Planet of the Apes,Fox,481.8,176.8,36.7,305,63.3,2011,"Action, Drama, Sci-Fi",7.6,68,469340,Action, Drama, Sci-Fi
+576,Thor,Par.,449.3,181,40.3,268.3,59.7,2011,"Action, Adventure, Fantasy",7,57,665624,Action, Adventure, Fantasy
+577,The Adventures of Tintin,Par.,374,77.6,20.7,296.4,79.3,2011,"Animation, Action, Adventure",7.3,68,200917,Animation, Action, Adventure
+578,Captain America: The First Avenger,Par.,370.6,176.7,47.7,193.9,52.3,2011,"Action, Adventure, Sci-Fi",6.9,66,645876,Action, Adventure, Sci-Fi
+579,Alvin & the Chipmunks: Chipwrecked,Fox,342.7,133.1,38.8,209.6,61.2,2011,"Animation, Adventure, Comedy",4.4,24,27736,Animation, Adventure, Comedy
+580,Real Steel,BV,299.3,85.5,28.6,213.8,71.4,2011,"Action, Drama, Family",7.1,56,281985,Action, Drama, Family
+581,Bridesmaids,Uni.,288.4,169.1,58.6,119.3,41.4,2011,"Comedy, Romance",6.8,75,247599,Comedy, Romance,
+582,Super 8,Par.,260.1,127,48.8,133.1,51.2,2011,"Mystery, Sci-Fi, Thriller",7,72,318626,Mystery, Sci-Fi, Thriller
+583,Rango,Par.,245.7,123.5,50.3,122.2,49.7,2011,"Animation, Adventure, Comedy",7.2,75,213645,Animation, Adventure, Comedy
+584,The Green Hornet,Sony,227.8,98.8,43.4,129,56.6,2011,"Action, Comedy, Crime",5.8,39,147780,Action, Comedy, Crime
+585,Immortals,Rela.,226.9,83.5,36.8,143.4,63.2,2011,"Action, Drama, Fantasy",6,46,152075,Action, Drama, Fantasy
+586,Green Lantern,WB,219.9,116.6,53,103.3,47,2011,"Action, Adventure, Sci-Fi",5.5,39,250216,Action, Adventure, Sci-Fi
+587,The Help,BV,216.6,169.7,78.3,46.9,21.7,2011,Drama,8.1,62,388530,Drama,,
+588,Bad Teacher,Sony,216.2,100.3,46.4,115.9,53.6,2011,"Comedy, Romance",5.7,47,179674,Comedy, Romance,
+589,Horrible Bosses,WB (NL),209.6,117.5,56.1,92.1,43.9,2011,"Comedy, Crime",6.9,57,396037,Comedy, Crime,
+590,Paranormal Activity 3,Par.,207,104,50.2,103,49.8,2011,"Horror, Mystery, Thriller",5.8,59,85112,Horror, Mystery, Thriller
+591,Gnomeo & Juliet,BV,194,100,51.5,94,48.5,2011,"Animation, Adventure, Comedy",6,53,49133,Animation, Adventure, Comedy
+592,Mr. Popper's Penguins,Fox,187.4,68.2,36.4,119.1,63.6,2011,"Comedy, Family, Fantasy",6,53,79704,Comedy, Family, Fantasy
+593,Hugo,Par.,185.8,73.9,39.8,111.9,60.2,2011,"Adventure, Drama, Family",7.5,83,282854,Adventure, Drama, Family
+594,Hop,Uni.,184,108.1,58.8,75.9,41.2,2011,"Animation, Adventure, Comedy",5.4,41,28306,Animation, Adventure, Comedy
+595,War Horse,BV,177.6,79.9,45,97.7,55,2011,"Drama, History, War",7.2,72,135045,Drama, History, War
+596,The Descendants,FoxS,177.2,82.6,46.6,94.7,53.4,2011,"Comedy, Drama",7.3,84,222521,Comedy, Drama,
+597,Cowboys & Aliens,Uni.,174.8,100.2,57.3,74.6,42.7,2011,"Action, Sci-Fi, Thriller",6,50,194539,Action, Sci-Fi, Thriller
+598,In Time,Fox,173.9,37.5,21.6,136.4,78.4,2011,"Action, Crime, Drama",6.7,53,343404,Action, Crime, Drama
+599,Zookeeper,Sony,169.9,80.4,47.3,89.5,52.7,2011,"Comedy, Family, Romance",5.2,30,51921,Comedy, Family, Romance
+600,The Muppets,BV,165.2,88.6,53.7,76.6,46.3,2011,"Adventure, Comedy, Family",7.1,75,82323,Adventure, Comedy, Family
+601,Limitless,Rela.,161.8,79.2,49,82.6,51,2011,"Mystery, Sci-Fi, Thriller",7.4,59,487725,Mystery, Sci-Fi, Thriller
+602,Final Destination 5,WB (NL),157.9,42.6,27,115.3,73,2011,Horror,5.9,50,97040,Horror,,
+603,Tower Heist,Uni.,152.9,78,51,74.9,49,2011,"Action, Comedy, Crime",6.2,59,124306,Action, Comedy, Crime
+604,Midnight in Paris,SPC,151.1,56.8,37.6,94.3,62.4,2011,"Comedy, Fantasy, Romance",7.7,81,353174,Comedy, Fantasy, Romance
+605,Happy Feet Two,WB,150.4,64,42.6,86.4,57.4,2011,"Animation, Adventure, Comedy",5.9,50,38005,Animation, Adventure, Comedy
+606,I Am Number Four,BV,149.9,55.1,36.8,94.8,63.2,2011,"Action, Adventure, Sci-Fi",6.1,36,216283,Action, Adventure, Sci-Fi
+607,Jack & Jill,Sony,149.7,74.2,49.5,75.5,50.5,2011,Comedy,3.3,23,70531,Comedy,,
+608,Friends with Benefits,SGem,149.5,55.8,37.3,93.7,62.7,2011,"Comedy, Romance",6.6,63,314604,Comedy, Romance,
+609,No Strings Attached,Par.,149.2,70.7,47.4,78.6,52.6,2011,"Comedy, Romance",6.2,50,196009,Comedy, Romance,
+610,Arthur Christmas,Sony,147.4,46.5,31.5,101,68.5,2011,"Animation, Adventure, Comedy",7.1,69,45100,Animation, Adventure, Comedy
+611,Source Code,Sum.,147.3,54.7,37.1,92.6,62.9,2011,"Action, Drama, Sci-Fi",7.5,74,448187,Action, Drama, Sci-Fi
+612,"Crazy, Stupid, Love.",WB,142.9,84.4,59,58.5,41,2011,"Comedy, Drama, Romance",7.4,68,433674,Comedy, Drama, Romance
+613,New Year's Eve,WB (NL),142,54.5,38.4,87.5,61.6,2011,"Comedy, Romance",5.7,22,76212,Comedy, Romance,
+614,Contagion,WB,135.5,75.7,55.9,59.8,44.1,2011,"Action, Drama, Thriller",6.6,70,200196,Action, Drama, Thriller
+615,The Artist,Wein.,133.4,44.7,33.5,88.8,66.5,2011,"Comedy, Drama, Romance",7.9,89,215960,Comedy, Drama, Romance
+616,Unknown,WB,130.8,63.7,48.7,67.1,51.3,2011,"Action, Mystery, Thriller",6.9,56,233790,Action, Mystery, Thriller
+617,The Adjustment Bureau,Uni.,127.9,62.5,48.9,65.4,51.1,2011,"Romance, Sci-Fi, Thriller",7.1,60,225884,Romance, Sci-Fi, Thriller
+618,We Bought a Zoo,Fox,120.1,75.6,63,44.5,37,2011,"Comedy, Drama, Family",7.1,58,125825,Comedy, Drama, Family
+619,Water for Elephants,Fox,117.1,58.7,50.1,58.4,49.9,2011,"Drama, Romance",6.9,52,105199,Drama, Romance,
+620,The Iron Lady,Wein.,115,30,26.1,84.9,73.9,2011,"Biography, Drama",6.4,54,95386,Biography, Drama,
+621,Moneyball,Sony,110.2,75.6,68.6,34.6,31.4,2011,"Biography, Drama, Sport",7.6,87,323184,Biography, Drama, Sport
+622,Paul,Uni.,98,37.4,38.2,60.6,61.8,2011,"Animation, Adventure, Comedy",7,57,218640,Animation, Adventure, Comedy
+623,Scream 4,W/Dim.,97.1,38.2,39.3,59,60.7,2011,"Horror, Mystery",6.2,52,117847,Horror, Mystery,
+624,Insidious,FD,97,54,55.7,43,44.3,2011,"Horror, Mystery, Thriller",6.9,52,250629,Horror, Mystery, Thriller
+625,The Rite,WB (NL),96,33,34.4,63,65.6,2011,"Drama, Horror, Mystery",6,38,84977,Drama, Horror, Mystery
+626,Dolphin Tale,WB,95.4,72.3,75.8,23.1,24.2,2011,"Drama, Family",6.9,64,20542,Drama, Family,
+627,Season of the Witch,Rela.,91.6,24.8,27.1,66.8,72.9,2011,"Action, Adventure, Fantasy",5.4,28,85074,Action, Adventure, Fantasy
+628,Sucker Punch,WB,89.8,36.4,40.5,53.4,59.5,2011,"Action, Fantasy",6.1,33,217133,Action, Fantasy,
+629,Red Riding Hood,WB,89.2,37.7,42.2,51.5,57.8,2011,"Fantasy, Horror, Mystery",5.5,29,101720,Fantasy, Horror, Mystery
+630,J. Edgar,WB,84.9,37.3,43.9,47.6,56.1,2011,"Biography, Crime, Drama",6.6,59,115162,Biography, Crime, Drama
+631,Hall Pass,WB (NL),83.2,45.1,54.2,38.1,45.8,2011,"Comedy, Romance",5.9,45,113078,Comedy, Romance,
+632,"Big Mommas: Like Father, Like Son",Fox,82.7,37.9,45.9,44.8,54.1,2011,"Action, Comedy, Crime",4.4,22,23288,Action, Comedy, Crime
+633,Abduction,LGF,82.1,28.1,34.2,54,65.8,2011,"Action, Mystery, Thriller",5.1,25,71925,Action, Mystery, Thriller
+634,Priest,SGem,78.3,29.1,37.2,49.2,62.8,2011,"Action, Adventure, Fantasy",5.7,41,107507,Action, Adventure, Fantasy
+635,The Mechanic,CBS,76.1,29.1,38.3,47,61.7,2011,"Action, Crime, Thriller",6.6,49,140142,Action, Crime, Thriller
+636,The Ides of March,Sony,76,41,53.9,35,46.1,2011,"Drama, Thriller",7.1,67,206515,Drama, Thriller,
+637,The Change-Up,Uni.,75.5,37.1,49.1,38.4,50.9,2011,"Comedy, Fantasy",6.3,39,154011,Comedy, Fantasy,
+638,The Lincoln Lawyer,LGF,75,58,77.3,17,22.7,2011,"Crime, Drama, Thriller",7.3,63,194833,Crime, Drama, Thriller
+639,Diary of a Wimpy Kid: Rodrick Rules,Fox,72.4,52.7,72.8,19.7,27.2,2011,"Comedy, Family",6.6,51,22778,Comedy, Family,
+640,Larry Crowne,Uni.,72,35.6,49.5,36.4,50.5,2011,"Comedy, Drama, Romance",6.1,41,58369,Comedy, Drama, Romance
+641,The Dilemma,Uni.,69.7,48.5,69.5,21.2,30.5,2011,"Comedy, Drama",5.3,46,47955,Comedy, Drama,
+642,Hanna,Focus,63.8,40.3,63.1,23.5,36.9,2011,"Action, Drama, Thriller",6.8,65,176734,Action, Drama, Thriller
+643,Colombiana,TriS,61,36.7,60.1,24.3,39.9,2011,"Action, Drama, Thriller",6.4,45,86906,Action, Drama, Thriller
+644,Something Borrowed,WB,60.2,39,64.9,21.1,35.1,2011,"Comedy, Drama, Romance",5.9,36,53927,Comedy, Drama, Romance
+645,Killer Elite,ORF,56.4,25.1,44.6,31.3,55.4,2011,"Action, Crime, Thriller",6.5,44,117095,Action, Crime, Thriller
+646,Extremely Loud & Incredibly Close,WB,55.2,31.8,57.6,23.4,42.4,2011,"Adventure, Drama, Mystery",6.9,46,92647,Adventure, Drama, Mystery
+647,Winnie the Pooh,BV,49.9,26.7,53.5,23.2,46.5,2011,"Animation, Adventure, Comedy",7.2,74,19356,Animation, Adventure, Comedy
+648,Soul Surfer,TriS,47.1,43.9,93.1,3.2,6.9,2011,"Biography, Drama, Family",7.1,53,41249,Biography, Drama, Family
+649,The Debt,Focus,45.6,31.2,68.3,14.5,31.7,2011,"Drama, Thriller",6.9,65,60687,Drama, Thriller,
+650,Beastly,CBS,43.2,27.9,64.6,15.3,35.4,2011,"Drama, Fantasy, Romance",5.6,40,72096,Drama, Fantasy, Romance
+651,30 Minutes or Less,Sony,40.5,37.1,91.4,3.5,8.6,2011,"Action, Comedy, Crime",6.1,49,86625,Action, Comedy, Crime
+652,The Roommate,SGem,40.5,37.3,92.1,3.2,7.9,2011,"Drama, Thriller",4.9,23,32744,Drama, Thriller,
+653,50/50,Sum.,39.2,35,89.3,4.2,10.7,2011,"Comedy, Drama, Romance",7.7,72,298589,Comedy, Drama, Romance
+654,Jumping the Broom,TriS,37.7,37.3,98.9,415,1.1,2011,"Comedy, Drama",5.7,56,8979,Comedy, Drama,
+655,Don't Be Afraid of the Dark,FD,37,24,65,12.9,35,2011,"Fantasy, Horror, Thriller",5.6,56,44289,Fantasy, Horror, Thriller
+656,A Very Harold & Kumar 3D Christmas,WB,35.4,35.1,99.1,326,0.9,2011,"Adventure, Comedy",6.3,61,61810,Adventure, Comedy,
+657,The Sitter,Fox,34.9,30.4,87.1,4.5,12.9,2011,Comedy,5.7,39,65323,Comedy,,
+658,Courageous,TriS,34.5,34.5,100,,0,2011,Drama,7.1,42,17413,Drama,,
+659,Our Idiot Brother,Wein.,24.8,24.8,100,,0,2011,"Comedy, Drama",6.4,60,80376,Comedy, Drama,
+660,The Other Woman,IFC,452,25.4,5.6,427,94.4,2011,"Comedy, Romance",6,39,121801,Comedy, Romance,
+661,Toy Story 3,BV,1067,415,38.9,652,61.1,2010,"Animation, Adventure, Comedy",8.3,92,671569,Animation, Adventure, Comedy
+662,Inception,WB,828.3,292.6,35.3,535.7,64.7,2010,"Action, Adventure, Sci-Fi",8.8,74,1812491,Action, Adventure, Sci-Fi
+663,Shrek Forever After,P/DW,752.6,238.7,31.7,513.9,68.3,2010,"Animation, Adventure, Comedy",6.3,58,165210,Animation, Adventure, Comedy
+664,The Twilight Saga: Eclipse,Sum.,698.5,300.5,43,398,57,2010,"Adventure, Drama, Fantasy",5,58,209691,Adventure, Drama, Fantasy
+665,Iron Man 2,Par.,623.9,312.4,50.1,311.5,49.9,2010,"Action, Adventure, Sci-Fi",7,57,640701,Action, Adventure, Sci-Fi
+666,Tangled,BV,591.8,200.8,33.9,391,66.1,2010,"Animation, Adventure, Comedy",7.8,71,361474,Animation, Adventure, Comedy
+667,Despicable Me,Uni.,543.1,251.5,46.3,291.6,53.7,2010,"Animation, Comedy, Family",7.7,72,459557,Animation, Comedy, Family
+668,How to Train Your Dragon,P/DW,494.9,217.6,44,277.3,56,2010,"Animation, Action, Adventure",8.1,74,601788,Animation, Action, Adventure
+669,The Chronicles of Narnia: The Voyage of the Dawn Treader,Fox,415.7,104.4,25.1,311.3,74.9,2010,"Adventure, Family, Fantasy",6.3,53,127911,Adventure, Family, Fantasy
+670,The King's Speech,Wein.,410.9,135.5,33,275.4,67,2010,"Biography, Drama, History",8,88,588213,Biography, Drama, History
+671,The Karate Kid,Sony,359.1,176.6,49.2,182.5,50.8,2010,"Action, Drama, Family",6.2,61,144626,Action, Drama, Family
+672,Prince of Persia: The S&s of Time,BV,336.4,90.8,27,245.6,73,2010,"Action, Adventure, Fantasy",6.6,50,252430,Action, Adventure, Fantasy
+673,Black Swan,FoxS,329.4,107,32.5,222.4,67.5,2010,"Drama, Thriller",8,79,642550,Drama, Thriller,
+674,Megamind,P/DW,321.9,148.4,46.1,173.5,53.9,2010,"Animation, Action, Comedy",7.3,63,205165,Animation, Action, Comedy
+675,Robin Hood,Uni.,321.7,105.3,32.7,216.4,67.3,2010,"Action, Adventure, Drama",6.7,53,237862,Action, Adventure, Drama
+676,Robin Hood,Uni.,321.7,105.3,32.7,216.4,67.3,2010,"Action, Adventure, Thriller",5.3,32,34771,Action, Adventure, Thriller
+677,The Last Airbender,Par.,319.7,131.8,41.2,187.9,58.8,2010,"Action, Adventure, Family",4.1,20,136572,Action, Adventure, Family
+678,Little Fockers,Uni.,310.7,148.4,47.8,162.2,52.2,2010,"Comedy, Romance",5.5,27,98374,Comedy, Romance,
+679,Resident Evil: Afterlife,SGem,300.2,60.1,20,240.1,80,2010,"Action, Adventure, Horror",5.9,37,152035,Action, Adventure, Horror
+680,Shutter Isl&,Par.,294.8,128,43.4,166.8,56.6,2010,"Mystery, Thriller",8.1,63,991173,Mystery, Thriller,
+681,Salt,Sony,293.5,118.3,40.3,175.2,59.7,2010,"Action, Mystery, Thriller",6.4,65,275423,Action, Mystery, Thriller
+682,Sex & the City 2,WB (NL),288.3,95.3,33.1,193,66.9,2010,"Comedy, Drama, Romance",4.4,27,68539,Comedy, Drama, Romance
+683,The Tourist,Sony,278.3,67.6,24.3,210.7,75.7,2010,"Action, Adventure, Thriller",6,37,204991,Action, Adventure, Thriller
+684,The Expendables,LGF,274.5,103.1,37.6,171.4,62.4,2010,"Action, Adventure, Thriller",6.5,45,305568,Action, Adventure, Thriller
+685,Grown Ups,Sony,271.4,162,59.7,109.4,40.3,2010,Comedy,6,30,208430,Comedy,,
+686,Knight & Day,Fox,261.9,76.4,29.2,185.5,70.8,2010,"Action, Adventure, Comedy",6.3,46,168759,Action, Adventure, Comedy
+687,True Grit,Par.,252.3,171.2,67.9,81,32.1,2010,"Adventure, Drama, Western",7.6,80,281311,Adventure, Drama, Western
+688,Gulliver's Travels,Fox,237.4,42.8,18,194.6,82,2010,"Adventure, Comedy, Family",4.9,33,60586,Adventure, Comedy, Family
+689,The Social Network,Sony,224.9,97,43.1,128,56.9,2010,"Biography, Drama",7.7,95,563755,Biography, Drama,
+690,Valentine's Day,WB (NL),216.5,110.5,51,106,49,2010,"Comedy, Romance",5.7,34,106470,Comedy, Romance,
+691,The Sorcerer's Apprentice,BV,215.3,63.2,29.3,152.1,70.7,2010,"Action, Adventure, Family",6.1,46,142693,Action, Adventure, Family
+692,Due Date,WB,211.8,100.5,47.5,111.2,52.5,2010,"Adventure, Comedy",6.5,51,301081,Adventure, Comedy,
+693,Eat Pray Love,Sony,204.6,80.6,39.4,124,60.6,2010,"Drama, Romance",5.8,50,76643,Drama, Romance,
+694,Yogi Bear,WB,201.6,100.2,49.7,101.3,50.3,2010,"Animation, Adventure, Comedy",4.6,35,18783,Animation, Adventure, Comedy
+695,Paranormal Activity 2,Par.,177.5,84.8,47.7,92.8,52.3,2010,Horror,5.7,53,92423,Horror,,
+696,The A-Team,Fox,177.2,77.2,43.6,100,56.4,2010,"Action, Adventure, Comedy",6.8,47,233850,Action, Adventure, Comedy
+697,The Other Guys,Sony,170.4,119.2,70,51.2,30,2010,"Action, Comedy, Crime",6.7,64,219495,Action, Comedy, Crime
+698,Unstoppable,Fox,167.8,81.6,48.6,86.2,51.4,2010,"Action, Thriller",6.8,69,171627,Action, Thriller,
+699,The Book of Eli,WB,157.1,94.8,60.4,62.3,39.6,2010,"Action, Adventure, Drama",6.9,53,268547,Action, Adventure, Drama
+700,The Town,WB,154,92.2,59.9,61.8,40.1,2010,"Crime, Drama, Thriller",7.6,74,319824,Crime, Drama, Thriller
+701,Date Night,Fox,152.3,98.7,64.8,53.6,35.2,2010,"Comedy, Crime, Romance",6.3,56,143633,Comedy, Crime, Romance
+702,Legend of the Guardians: The Owls of Ga'Hoole,WB,140.1,55.7,39.7,84.4,60.3,2010,"Animation, Action, Adventure",7,53,73339,Animation, Action, Adventure
+703,The Wolfman,Uni.,139.8,62,44.3,77.8,55.7,2010,"Drama, Fantasy, Horror",5.8,43,97235,Drama, Fantasy, Horror
+704,The Bounty Hunter,Sony,136.3,67.1,49.2,69.3,50.8,2010,"Action, Comedy, Romance",5.6,22,111467,Action, Comedy, Romance
+705,Wall Street: Money Never Sleeps,Fox,134.7,52.5,38.9,82.3,61.1,2010,Drama,6.2,59,92965,Drama,,
+706,The Fighter,Par.,129.2,93.6,72.5,35.6,27.5,2010,"Biography, Drama, Sport",7.8,79,314131,Biography, Drama, Sport
+707,Predators,Fox,127.2,52,40.9,75.2,59.1,2010,"Action, Adventure, Sci-Fi",6.4,51,197958,Action, Adventure, Sci-Fi
+708,Dear John,SGem,115,80,69.6,35,30.4,2010,"Drama, Romance, War",6.3,43,127220,Drama, Romance, War
+709,Cats & Dogs: The Revenge of Kitty Galore,WB,112.5,43.6,38.7,68.9,61.3,2010,"Action, Comedy, Family",4.3,30,12469,Action, Comedy, Family
+710,Tooth Fairy,Fox,112.5,60,53.4,52.4,46.6,2010,"Comedy, Family, Fantasy",5,36,37391,Comedy, Family, Fantasy
+711,Life as We Know It,WB,105.6,53.4,50.5,52.3,49.5,2010,"Comedy, Drama, Romance",6.6,39,111980,Comedy, Drama, Romance
+712,Hereafter,WB,105.2,32.7,31.1,72.5,68.9,2010,"Drama, Fantasy, Romance",6.5,56,86885,Drama, Fantasy, Romance
+713,The Girl with the Dragon Tattoo,MBox,104.4,10.1,9.7,94.3,90.3,2010,"Crime, Drama, Mystery",7.8,71,384407,Crime, Drama, Mystery
+714,Love & Other Drugs,Fox,102.8,32.4,31.5,70.5,68.5,2010,"Comedy, Drama, Romance",6.7,55,166086,Comedy, Drama, Romance
+715,Killers,LGF,98.2,47.1,47.9,51.1,52.1,2010,"Action, Comedy, Romance",5.4,21,81715,Action, Comedy, Romance
+716,Kick-Ass,LGF,96.2,48.1,50,48.1,50,2010,"Action, Comedy",7.6,66,493151,Action, Comedy,
+717,Green Zone,Uni.,94.9,35.1,36.9,59.8,63.1,2010,"Action, Drama, Thriller",6.8,63,121542,Action, Drama, Thriller
+718,Nanny McPhee Returns,Uni.,93.3,29,31.1,64.2,68.9,2010,"Comedy, Family, Fantasy",6.1,52,24643,Comedy, Family, Fantasy
+719,Get Him to the Greek,Uni.,91.3,61,66.8,30.3,33.2,2010,"Adventure, Comedy, Music",6.4,65,160788,Adventure, Comedy, Music
+720,Burlesque,SGem,89.5,39.4,44.1,50.1,55.9,2010,"Drama, Music, Musical",6.4,47,70308,Drama, Music, Musical
+721,The Last Song,BV,89,63,70.7,26.1,29.3,2010,"Drama, Music, Romance",5.9,33,73839,Drama, Music, Romance
+722,Dinner for Schmucks,P/DW,86.9,73,84.1,13.8,15.9,2010,Comedy,5.9,56,90679,Comedy,,
+723,Marmaduke,Fox,83.8,33.6,40.2,50.1,59.8,2010,"Comedy, Family",4.2,30,13177,Comedy, Family,
+724,Piranha 3D,W/Dim.,83.2,25,30.1,58.2,69.9,2010,"Comedy, Horror",5.4,53,80830,Comedy, Horror,
+725,Edge of Darkness,WB,81.1,43.3,53.4,37.8,46.6,2010,"Crime, Drama, Mystery",6.6,55,84198,Crime, Drama, Mystery
+726,Vampires Suck,Fox,80.5,36.7,45.5,43.9,54.5,2010,Comedy,3.4,18,43667,Comedy,,
+727,Letters to Juliet,Sum.,79.2,53,67,26.1,33,2010,"Adventure, Comedy, Drama",6.6,50,85478,Adventure, Comedy, Drama
+728,Diary of a Wimpy Kid,Fox,75.7,64,84.5,11.7,15.5,2010,"Comedy, Drama, Family",6.2,56,38144,Comedy, Drama, Family
+729,Easy A,SGem,75,58.4,77.9,16.6,22.1,2010,"Comedy, Drama, Romance",7.1,72,326808,Comedy, Drama, Romance
+730,Takers,SGem,69.1,57.7,83.6,11.3,16.4,2010,"Action, Crime, Thriller",6.2,45,52949,Action, Crime, Thriller
+731,The American,Focus,67.9,35.6,52.5,32.3,47.5,2010,"Crime, Drama, Thriller",6.3,61,86407,Crime, Drama, Thriller
+732,The Last Exorcism,LGF,67.7,41,60.6,26.7,39.4,2010,"Drama, Horror, Thriller",5.6,63,45602,Drama, Horror, Thriller
+733,Hot Tub Time Machine,MGM,64.6,50.3,77.9,14.3,22.1,2010,"Comedy, Sci-Fi",6.4,63,153017,Comedy, Sci-Fi,
+734,Devil,Uni.,62.7,33.6,53.6,29.1,46.4,2010,"Horror, Mystery, Thriller",6.2,44,121172,Horror, Mystery, Thriller
+735,Secretariat,BV,60.3,59.7,99.1,537,0.9,2010,"Biography, Drama, Family",7.2,61,24277,Biography, Drama, Family
+736,Morning Glory,Par.,60,31,51.7,29,48.3,2010,"Comedy, Drama, Romance",6.5,57,66606,Comedy, Drama, Romance
+737,Cop Out,WB,55.6,44.9,80.7,10.7,19.3,2010,"Action, Comedy, Crime",5.6,31,81208,Action, Comedy, Crime
+738,The Crazies,Over.,54.8,39.1,71.4,15.7,28.6,2010,"Horror, Thriller",6.5,55,103675,Horror, Thriller,
+739,From Paris with Love,LGF,52.8,24.1,45.6,28.7,54.4,2010,"Action, Crime, Thriller",6.5,42,106519,Action, Crime, Thriller
+740,Daybreakers,LGF,51.4,30.1,58.5,21.3,41.5,2010,"Action, Fantasy, Horror",6.5,57,116025,Action, Fantasy, Horror
+741,Alpha & Omega,LGF,50.5,25.1,49.7,25.4,50.3,2010,"Animation, Adventure, Comedy",5.3,36,12358,Animation, Adventure, Comedy
+742,The Switch,Mira.,49.8,27.8,55.7,22.1,44.3,2010,"Comedy, Drama, Romance",6.1,52,89925,Comedy, Drama, Romance
+743,She's Out of My League,Par.,49.8,32,64.3,17.8,35.7,2010,"Comedy, Romance",6.4,46,116275,Comedy, Romance,
+744,How Do You Know,Sony,48.7,30.2,62.1,18.5,37.9,2010,"Comedy, Drama, Romance",5.4,46,40664,Comedy, Drama, Romance
+745,Charlie St. Cloud,Uni.,48.2,31.2,64.7,17,35.3,2010,"Drama, Fantasy, Romance",6.5,37,54508,Drama, Fantasy, Romance
+746,Scott Pilgrim vs. the World,Uni.,47.7,31.5,66.1,16.1,33.9,2010,"Action, Comedy, Fantasy",7.5,69,334944,Action, Comedy, Fantasy
+747,The Spy Next Door,LGF,45.2,24.3,53.7,20.9,46.3,2010,"Action, Comedy, Family",5.5,27,36353,Action, Comedy, Family
+748,Machete,Fox,44.1,26.6,60.3,17.5,39.7,2010,"Action, Crime, Thriller",6.6,60,181280,Action, Crime, Thriller
+749,When in Rome,BV,43,32.7,75.9,10.4,24.1,2010,"Comedy, Romance",5.6,25,57032,Comedy, Romance,
+750,For Colored Girls,LGF,37.7,37.7,100,17.3,0,2010,Drama,6.1,50,6681,Drama,,
+751,Brooklyn's Finest,Over.,36.4,27.2,74.5,9.3,25.5,2010,"Crime, Drama, Thriller",6.7,43,57662,Crime, Drama, Thriller
+752,Leap Year,Uni.,32.6,25.9,79.5,6.7,20.5,2010,"Comedy, Romance",6.5,33,85211,Comedy, Romance,
+753,You Again,BV,32,25.7,80.3,6.3,19.7,2010,"Comedy, Family, Romance",5.8,28,46398,Comedy, Family, Romance
+754,The Losers,WB,29.4,23.6,80.3,5.8,19.7,2010,"Action, Adventure, Crime",6.4,44,83091,Action, Adventure, Crime
+755,Ramona & Beezus,Fox,27.3,26.2,95.9,1.1,4.1,2010,"Adventure, Comedy, Family",6.6,56,15932,Adventure, Comedy, Family
+756,The Girl on the Train,Strand,305,208,68.2,97.1,31.8,2010,"Crime, Drama, Mystery",6.5,48,148219,Crime, Drama, Mystery
+757,Avatar,Fox,2777.2,749.8,27,2027.5,73,2009,"Action, Adventure, Fantasy",7.8,83,1032375,Action, Adventure, Fantasy
+758,Harry Potter & the Half-Blood Prince,WB,934.4,302,32.3,632.5,67.7,2009,"Adventure, Family, Fantasy",7.6,78,412448,Adventure, Family, Fantasy
+759,Ice Age: Dawn of the Dinosaurs,Fox,886.7,196.6,22.2,690.1,77.8,2009,"Animation, Action, Adventure",7,50,201063,Animation, Action, Adventure
+760,Transformers: Revenge of the Fallen,P/DW,836.3,402.1,48.1,434.2,51.9,2009,"Action, Adventure, Sci-Fi",6,35,362257,Action, Adventure, Sci-Fi
+761,2012,Sony,769.7,166.1,21.6,603.6,78.4,2009,"Action, Adventure, Sci-Fi",5.8,49,325101,Action, Adventure, Sci-Fi
+762,Up,BV,735.1,293,39.9,442.1,60.1,2009,"Animation, Adventure, Comedy",8.3,88,832824,Animation, Adventure, Comedy
+763,The Twilight Saga: New Moon,Sum.,709.7,296.6,41.8,413.1,58.2,2009,"Adventure, Drama, Fantasy",4.7,44,246587,Adventure, Drama, Fantasy
+764,Sherlock Holmes,WB,524,209,39.9,315,60.1,2009,"Action, Adventure, Crime",7.6,57,544063,Action, Adventure, Crime
+765,Angels & Demons,Sony,485.9,133.4,27.4,352.6,72.6,2009,"Mystery, Thriller",6.7,48,250104,Mystery, Thriller,
+766,The Hangover,WB,467.5,277.3,59.3,190.2,40.7,2009,Comedy,7.7,73,663903,Comedy,,
+767,Alvin & the Chipmunks: The Squeakquel,Fox,443.1,219.6,49.6,223.5,50.4,2009,"Animation, Comedy, Family",4.5,41,38589,Animation, Comedy, Family
+768,Night at the Museum: Battle of the Smithsonian,Fox,413.1,177.2,42.9,235.9,57.1,2009,"Adventure, Comedy, Family",6,42,158854,Adventure, Comedy, Family
+769,Star Trek,Par.,385.7,257.7,66.8,128,33.2,2009,"Action, Adventure, Sci-Fi",8,82,553886,Action, Adventure, Sci-Fi
+770,X-Men Origins: Wolverine,Fox,373.1,179.9,48.2,193.2,51.8,2009,"Action, Adventure, Sci-Fi",6.6,40,431103,Action, Adventure, Sci-Fi
+771,Terminator Salvation,WB,371.4,125.3,33.7,246,66.3,2009,"Action, Adventure, Sci-Fi",6.6,49,317885,Action, Adventure, Sci-Fi
+772,Fast & Furious,Uni.,363.2,155.1,42.7,208.1,57.3,2009,"Action, Crime, Thriller",6.6,46,240014,Action, Crime, Thriller
+773,Inglourious Basterds,Wein.,321.5,120.5,37.5,200.9,62.5,2009,"Adventure, Drama, War",8.3,69,1103144,Adventure, Drama, War
+774,The Proposal,BV,317.4,164,51.7,153.4,48.3,2009,"Comedy, Drama, Romance",6.7,48,269696,Comedy, Drama, Romance
+775,The Blind Side,WB,309.2,256,82.8,53.2,17.2,2009,"Biography, Drama, Sport",7.7,53,264410,Biography, Drama, Sport
+776,G.I. Joe: The Rise of Cobra,Par.,302.5,150.2,49.7,152.3,50.3,2009,"Action, Adventure, Sci-Fi",5.8,32,190179,Action, Adventure, Sci-Fi
+777,G-Force,BV,292.8,119.4,40.8,173.4,59.2,2009,"Animation, Action, Adventure",5.1,41,38689,Animation, Action, Adventure
+778,The Princess & the Frog,BV,267,104.4,39.1,162.6,60.9,2009,"Animation, Adventure, Comedy",7.1,73,107684,Animation, Adventure, Comedy
+779,Cloudy with a Chance of Meatballs,Sony,243,124.9,51.4,118.1,48.6,2009,"Animation, Action, Adventure",7,66,183930,Animation, Action, Adventure
+780,It's Complicated,Uni.,219.1,112.7,51.5,106.4,48.5,2009,"Comedy, Drama, Romance",6.6,57,79865,Comedy, Drama, Romance
+781,Public Enemies,Uni.,214.1,97.1,45.4,117,54.6,2009,"Biography, Crime, Drama",7,70,259755,Biography, Crime, Drama
+782,District 9,TriS,210.8,115.6,54.9,95.2,45.1,2009,"Action, Sci-Fi, Thriller",7.9,81,599750,Action, Sci-Fi, Thriller
+783,The Ugly Truth,Sony,205.3,88.9,43.3,116.4,56.7,2009,"Comedy, Romance",6.5,28,188354,Comedy, Romance,
+784,The Final Destination,WB (NL),186.2,66.5,35.7,119.7,64.3,2009,Horror,5.2,30,88025,Horror,,
+785,Watchmen,WB,185.3,107.5,58,77.7,42,2009,"Action, Drama, Mystery",7.6,56,450678,Action, Drama, Mystery
+786,Knowing,Sum.,183.6,80,43.6,103.6,56.4,2009,"Action, Drama, Mystery",6.2,41,207586,Action, Drama, Mystery
+787,He's Just Not That Into You,WB (NL),178.8,94,52.5,84.9,47.5,2009,"Comedy, Drama, Romance",6.4,47,148743,Comedy, Drama, Romance
+788,Couples Retreat,Uni.,171.8,109.2,63.5,62.6,36.5,2009,Comedy,5.5,23,93989,Comedy,,
+789,Up in the Air,Par.,166.8,83.8,50.2,83,49.8,2009,"Comedy, Drama, Romance",7.4,83,299068,Comedy, Drama, Romance
+790,17 Again,WB (NL),136.3,64.2,47.1,72.1,52.9,2009,"Comedy, Drama, Fantasy",6.4,48,165607,Comedy, Drama, Fantasy
+791,Julie & Julia,Sony,129.5,94.1,72.7,35.4,27.3,2009,"Biography, Drama, Romance",7,66,95447,Biography, Drama, Romance
+792,Law Abiding Citizen,Over.,126.7,73.4,57.9,53.3,42.1,2009,"Crime, Drama, Thriller",7.4,34,250337,Crime, Drama, Thriller
+793,Coraline,Focus,124.6,75.3,60.4,49.3,39.6,2009,"Animation, Drama, Fantasy",7.7,80,176927,Animation, Drama, Fantasy
+794,Surrogates,BV,122.4,38.6,31.5,83.9,68.5,2009,"Action, Sci-Fi, Thriller",6.3,45,162665,Action, Sci-Fi, Thriller
+795,Invictus,WB,122.2,37.5,30.7,84.7,69.3,2009,"Biography, Drama, History",7.3,74,139937,Biography, Drama, History
+796,Hotel for Dogs,P/DW,117,73,62.4,44,37.6,2009,"Comedy, Family",5.4,51,19551,Comedy, Family,
+797,Bride Wars,Fox,114.7,58.7,51.2,55.9,48.8,2009,"Comedy, Romance",5.5,24,93588,Comedy, Romance,
+798,Confessions of a Shopaholic,BV,108.3,44.3,40.9,64.1,59.1,2009,"Comedy, Family, Romance",5.9,38,70393,Comedy, Family, Romance
+799,Race to Witch Mountain,BV,106.4,67.2,63.1,39.2,36.9,2009,"Action, Adventure, Family",5.7,52,50591,Action, Adventure, Family
+800,Planet 51,Sony,105.6,42.2,39.9,63.5,60.1,2009,"Animation, Adventure, Comedy",6.1,39,46950,Animation, Adventure, Comedy
+801,Zombiel&,Sony,102.4,75.6,73.8,26.8,26.2,2009,"Adventure, Comedy, Horror",7.6,73,452871,Adventure, Comedy, Horror
+802,Ghosts of Girlfriends Past,WB (NL),102.2,55.3,54,47,46,2009,"Comedy, Fantasy, Romance",5.8,34,77161,Comedy, Fantasy, Romance
+803,The Time Traveler's Wife,WB (NL),101.3,63.4,62.6,37.9,37.4,2009,"Drama, Fantasy, Romance",7.1,47,131640,Drama, Fantasy, Romance
+804,Where the Wild Things Are,WB,100.1,77.2,77.2,22.9,22.8,2009,"Adventure, Drama, Family",6.8,71,96011,Adventure, Drama, Family
+805,Old Dogs,BV,96.8,49.5,51.2,47.3,48.8,2009,"Comedy, Family",5.4,19,34330,Comedy, Family,
+806,My Sister's Keeper,WB (NL),95.7,49.2,51.4,46.5,48.6,2009,"Drama, Family",7.4,51,84412,Drama, Family,
+807,The Lovely Bones,P/DW,93.6,44.1,47.1,49.5,52.9,2009,"Drama, Fantasy, Thriller",6.7,42,144383,Drama, Fantasy, Thriller
+808,"I Love You, Man",P/DW,91.6,71.4,78,20.2,22,2009,"Comedy, Romance",7,70,184558,Comedy, Romance,
+809,Underworld: Rise of the Lycans,SGem,91.4,45.8,50.1,45.6,49.9,2009,"Action, Adventure, Fantasy",6.6,44,140998,Action, Adventure, Fantasy
+810,Drag Me to Hell,Uni.,90.8,42.1,46.3,48.7,53.7,2009,"Horror, Thriller",6.6,83,175958,Horror, Thriller,
+811,State of Play,Uni.,87.8,37,42.2,50.8,57.8,2009,"Crime, Drama, Mystery",7.1,64,126203,Crime, Drama, Mystery
+812,Did You Hear About the Morgans?,Sony,85.3,29.6,34.7,55.7,65.3,2009,"Comedy, Drama, Romance",4.8,27,34452,Comedy, Drama, Romance
+813,Duplicity,Uni.,78.1,40.6,51.9,37.6,48.1,2009,"Comedy, Crime, Romance",6.2,69,45076,Comedy, Crime, Romance
+814,The Haunting in Connecticut,LGF,77.5,55.4,71.4,22.1,28.6,2009,"Drama, Horror, Mystery",5.9,33,56177,Drama, Horror, Mystery
+815,Orphan,WB,76.7,41.6,54.2,35.1,45.8,2009,"Horror, Mystery, Thriller",7,42,173389,Horror, Mystery, Thriller
+816,The Pink Panther 2,Sony,75.9,35.9,47.3,40,52.7,2009,"Action, Adventure, Comedy",5.6,36,38763,Action, Adventure, Comedy
+817,Obsessed,SGem,73.8,68.3,92.5,5.6,7.5,2009,"Drama, Romance, Thriller",4.9,25,26653,Drama, Romance, Thriller
+818,Funny People,Uni.,71.6,51.9,72.4,19.7,27.6,2009,"Comedy, Drama",6.3,60,108532,Comedy, Drama,
+819,The Men Who Stare at Goats,Over.,69,32.4,47,36.5,53,2009,"Comedy, War",6.2,54,120629,Comedy, War,
+820,L& of the Lost,Uni.,68.8,49.4,71.9,19.3,28.1,2009,"Action, Adventure, Comedy",5.4,32,60043,Action, Adventure, Comedy
+821,Saw VI,LGF,68.2,27.7,40.6,40.5,59.4,2009,"Horror, Mystery, Thriller",6,30,92368,Horror, Mystery, Thriller
+822,Year One,Sony,62.4,43.3,69.5,19,30.5,2009,"Adventure, Comedy",4.9,34,85433,Adventure, Comedy,
+823,Ninja Assassin,WB,61.6,38.1,61.9,23.5,38.1,2009,"Action, Thriller",6.4,34,64174,Action, Thriller,
+824,(500) Days of Summer,FoxS,60.7,32.4,53.3,28.3,46.7,2009,"Comedy, Drama, Romance",7.7,76,437163,Comedy, Drama, Romance
+825,The International,Sony,60.2,25.5,42.3,34.7,57.7,2009,"Action, Crime, Drama",6.5,52,86344,Action, Crime, Drama
+826,Aliens in the Attic,Fox,57.9,25.2,43.5,32.7,56.5,2009,"Animation, Adventure, Comedy",5.4,42,19276,Animation, Adventure, Comedy
+827,Push,Sum.,48.9,31.8,65.1,17,34.9,2009,"Action, Sci-Fi, Thriller",6.1,36,99926,Action, Sci-Fi, Thriller
+828,9,Focus,48.4,31.7,65.6,16.7,34.4,2009,"Animation, Action, Adventure",7.1,60,124950,Animation, Action, Adventure
+829,The Fourth Kind,Uni.,47.7,25.5,53.4,22.2,46.6,2009,"Mystery, Sci-Fi, Thriller",5.9,34,69563,Mystery, Sci-Fi, Thriller
+830,Crazy Heart,FoxS,47.4,39.5,83.2,7.9,16.8,2009,"Drama, Music, Romance",7.3,83,78916,Drama, Music, Romance
+831,Brothers,LGF,43.3,28.5,65.9,14.8,34.1,2009,"Drama, War",7.1,58,102151,Drama, War,
+832,The Informant!,WB,41.8,33.3,79.8,8.5,20.2,2009,"Biography, Comedy, Crime",6.5,66,59684,Biography, Comedy, Crime
+833,The Uninvited,P/DW,41.6,28.6,68.7,13,31.3,2009,"Drama, Horror, Mystery",6.4,43,71170,Drama, Horror, Mystery
+834,All About Steve,Fox,40.1,33.9,84.4,6.2,15.6,2009,"Comedy, Romance",4.8,17,37338,Comedy, Romance,
+835,The Soloist,P/DW,38.3,31.7,82.7,6.6,17.3,2009,"Biography, Drama, Music",6.7,61,48481,Biography, Drama, Music
+836,Dance Flick,Par.,31.4,25.7,81.6,5.8,18.4,2009,"Action, Comedy, Music",3.5,40,11061,Action, Comedy, Music
+837,Observe & Report,WB,27,24,89,3,11,2009,"Comedy, Crime, Drama",5.8,54,56506,Comedy, Crime, Drama
