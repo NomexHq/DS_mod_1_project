@@ -1,4 +1,4 @@
-# DS_mod_1_project #
+# DS Mod 1 Project #
 
 A project focused on investigating best future practices for a major movie studio. This included best types of films, themes directors and more to invest in.
 
@@ -23,4 +23,16 @@ A project focused on investigating best future practices for a major movie studi
 * What director or type of director to hire?
 
 
-## Insights
+## Insights ##
+* More of a correlation between worldwide revenue and IMDB score than worldwide revenue and Metascore
+  * Even so IMDB Score and Metascore relate very strongly
+* Action, drama and biopics are the most highly rated genres overall while horror movies perform the worst
+* Action and animation generate the most revenue, while fantasy is surprisingly disappointing
+* Christopher Nolan and Brad Bird are the only two directors from 2009 - 2018 to have directed at least two movies that weren't in the same franchise (i.e. The Avengers or The Hunger Games) that made over $500MM and had a Metascore above 60
+
+## Recommendations ##
+* Do not optimise for a huge hit as it simply doesn't happen often
+* Have a diverse portfolio of movies by genre - don't be afraid to try new things
+  * Specifically animation is quite profitable and biopics are highly regarded
+  * Comedies are hard to scale on a global level
+* Support directors that are multi-faceted and that have original ideas!
