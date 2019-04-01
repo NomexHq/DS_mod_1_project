@@ -13,7 +13,7 @@ Git has been used as a collaborative tool to manage version control and history.
 Web Scraping was performed for Box Office Mojo and IMDB to retrieve both quantitative and categorical data. Data from OMDB was gathered using API and included such categorical varibles as cast, directors, plot summaries.
 Examined top grossing movies from 2009-2018 and final analysis included 790 titles.
 
-# Questions explored
+# Questions Explored
 
 What are the top movies by world revenue?
 What is the relationship between critic/fan scores and genre?
