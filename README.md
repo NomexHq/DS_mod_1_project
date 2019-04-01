@@ -22,6 +22,17 @@ A project focused on investigating best future practices for a major movie studi
 * What are the general themes of the most successful movies?
 * What director or type of director to hire?
 
+## Data visualisations
+
+![chart1](Charts/timeseries1.png)<br>
+![chart1](Charts/Meta_vs_imdb_based_on_genre.png)<br>
+![chart1](Charts/rev(log)_vs_imdb_based_on_genre.png)<br>
+![chart1](Charts/rev_vs_meta_based_on_genre.png)<br>
+![chart1](Charts/timeseries1.png)<br>
+![chart1](Charts/timeseries2.png)<br>
+![chart1](Charts/timeseries3.png)<br>
+
+
 
 ## Insights ##
 * More of a correlation between worldwide revenue and IMDB score than worldwide revenue and Metascore
